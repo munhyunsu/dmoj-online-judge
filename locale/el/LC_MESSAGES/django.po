@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dmoj\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-20 23:04+0000\n"
-"PO-Revision-Date: 2023-01-22 00:52\n"
+"POT-Creation-Date: 2023-06-12 00:59+0000\n"
+"PO-Revision-Date: 2023-06-13 00:54\n"
 "Last-Translator: \n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -17,121 +17,121 @@ msgstr ""
 "X-Crowdin-File: django.po\n"
 "X-Crowdin-File-ID: 10\n"
 
-#: dmoj/settings.py:380
+#: dmoj/settings.py:385
 msgid "Catalan"
 msgstr "Καταλανικά"
 
-#: dmoj/settings.py:381
+#: dmoj/settings.py:386
 msgid "German"
 msgstr "Γερμανικά"
 
-#: dmoj/settings.py:382
+#: dmoj/settings.py:387
 msgid "Greek"
 msgstr "Ελληνικά"
 
-#: dmoj/settings.py:383
+#: dmoj/settings.py:388
 msgid "English"
 msgstr "Αγγλικά"
 
-#: dmoj/settings.py:384
+#: dmoj/settings.py:389
 msgid "Spanish"
 msgstr "Ισπανικά"
 
-#: dmoj/settings.py:385
+#: dmoj/settings.py:390
 msgid "French"
 msgstr "Γαλλικά"
 
-#: dmoj/settings.py:386
+#: dmoj/settings.py:391
 msgid "Croatian"
 msgstr "Κροάτικα"
 
-#: dmoj/settings.py:387
+#: dmoj/settings.py:392
 msgid "Hungarian"
 msgstr "Ουγγρικά"
 
-#: dmoj/settings.py:388
+#: dmoj/settings.py:393
 msgid "Japanese"
 msgstr "Ιαπωνικά"
 
-#: dmoj/settings.py:389
+#: dmoj/settings.py:394
 msgid "Korean"
 msgstr "Κορεατικά"
 
-#: dmoj/settings.py:390
+#: dmoj/settings.py:395
 msgid "Brazilian Portuguese"
 msgstr "Πορτογαλικά Βραζιλίας"
 
-#: dmoj/settings.py:391
+#: dmoj/settings.py:396
 msgid "Romanian"
 msgstr "Ρουμανικά"
 
-#: dmoj/settings.py:392
+#: dmoj/settings.py:397
 msgid "Russian"
 msgstr "Ρωσικά"
 
-#: dmoj/settings.py:393
+#: dmoj/settings.py:398
 msgid "Serbian (Latin)"
 msgstr "Σερβικά (Λατινικά)"
 
-#: dmoj/settings.py:394
+#: dmoj/settings.py:399
 msgid "Turkish"
 msgstr "Τουρκικά"
 
-#: dmoj/settings.py:395
+#: dmoj/settings.py:400
 msgid "Vietnamese"
 msgstr "Βιετναμέζικα"
 
-#: dmoj/settings.py:396
+#: dmoj/settings.py:401
 msgid "Simplified Chinese"
 msgstr "Απλοποιημένα Κινέζικα"
 
-#: dmoj/settings.py:397
+#: dmoj/settings.py:402
 msgid "Traditional Chinese"
 msgstr "Παραδοσιακά Κινέζικα"
 
-#: dmoj/urls.py:32
+#: dmoj/urls.py:31
 msgid "Activation Successful!"
 msgstr "Επιτυχής Ενεργοποίηση!"
 
-#: dmoj/urls.py:40
+#: dmoj/urls.py:39
 msgid "Registration Completed"
 msgstr "Η Εγγραφή Ολοκληρώθηκε"
 
-#: dmoj/urls.py:44
+#: dmoj/urls.py:43
 msgid "Registration Not Allowed"
 msgstr "Δεν Επιτρέπεται Εγγραφή"
 
-#: dmoj/urls.py:93 templates/base.html:183
+#: dmoj/urls.py:92 templates/base.html:193
 msgid "Home"
 msgstr "Αρχική"
 
-#: judge/admin/comments.py:23 judge/admin/interface.py:72
+#: judge/admin/comments.py:24 judge/admin/interface.py:72
 msgid "Content"
 msgstr "Περιεχόμενο"
 
-#: judge/admin/comments.py:40
+#: judge/admin/comments.py:41
 #, python-format
 msgid "%d comment successfully hidden."
 msgid_plural "%d comments successfully hidden."
 msgstr[0] "%d σχόλιο αποκρύφθηκε επιτυχώς."
 msgstr[1] "%d σχόλια αποκρύφθηκαν επιτυχώς."
 
-#: judge/admin/comments.py:43
+#: judge/admin/comments.py:44
 msgid "Hide comments"
 msgstr "Απόκρυψη σχολίων"
 
-#: judge/admin/comments.py:47
+#: judge/admin/comments.py:48
 #, python-format
 msgid "%d comment successfully unhidden."
 msgid_plural "%d comments successfully unhidden."
 msgstr[0] "%d σχόλιο επανεμφανίστηκε επιτυχώς."
 msgstr[1] "%d σχόλια επανεμφανίστηκαν επιτυχώς."
 
-#: judge/admin/comments.py:50
+#: judge/admin/comments.py:51
 msgid "Unhide comments"
 msgstr "Επανεμφάνιση σχολίων"
 
-#: judge/admin/comments.py:58
+#: judge/admin/comments.py:59
 msgid "Associated page"
 msgstr "Συσχετιζόμενη σελίδα"
 
@@ -140,19 +140,19 @@ msgid "Included contests"
 msgstr "Συμπεριλαμβανόμενοι διαγωνισμοί"
 
 #: judge/admin/contest.py:65 templates/contest/contest.html:195
-#: templates/contest/moss.html:41 templates/problem/list.html:197
-#: templates/problem/list.html:213 templates/user/user-problems.html:58
+#: templates/contest/moss.html:41 templates/problem/list.html:188
+#: templates/problem/list.html:204 templates/user/user-problems.html:58
 #: templates/user/user-problems.html:102
 msgid "Problem"
 msgstr "Πρόβλημα"
 
-#: judge/admin/contest.py:66 judge/views/problem.py:355
+#: judge/admin/contest.py:66 judge/views/problem.py:353
 #: templates/contest/contest.html:191 templates/user/user-tabs.html:5
 #: templates/user/users-table.html:23
 msgid "Problems"
 msgstr "Προβλήματα"
 
-#: judge/admin/contest.py:76 judge/admin/submission.py:249
+#: judge/admin/contest.py:76 judge/admin/submission.py:250
 #: templates/admin/judge/submission/change_form.html:14
 #: templates/admin/judge/submission/change_form.html:17
 #: templates/submission/source.html:34 templates/submission/status.html:89
@@ -231,29 +231,29 @@ msgstr[1] "%d διαγωνισμοί ξεκλειδώθηκαν επιτυχώς
 msgid "Unlock contest submissions"
 msgstr "Ξεκλείδωμα υποβολής διαγωνισμών"
 
-#: judge/admin/contest.py:280 judge/admin/submission.py:175
+#: judge/admin/contest.py:280 judge/admin/submission.py:176
 #, python-format
 msgid "%d submission was successfully scheduled for rejudging."
 msgid_plural "%d submissions were successfully scheduled for rejudging."
 msgstr[0] "%d υποβολή προγραμματίστηκε επιτυχώς για επανεξέταση."
 msgstr[1] "%d υποβολές προγραμματίστηκαν επιτυχώς για επανεξέταση."
 
-#: judge/admin/contest.py:356
+#: judge/admin/contest.py:358
 #, python-format
 msgid "%d participation recalculated."
 msgid_plural "%d participations recalculated."
 msgstr[0] "%d συμμετοχή επανυπολογίστηκε."
 msgstr[1] "%d συμμετοχές επανυπολογίστηκαν."
 
-#: judge/admin/contest.py:359
+#: judge/admin/contest.py:361
 msgid "Recalculate results"
 msgstr "Επανυπολογισμός αποτελεσμάτων"
 
-#: judge/admin/contest.py:363 judge/admin/organization.py:113
+#: judge/admin/contest.py:365 judge/admin/organization.py:113
 msgid "username"
 msgstr "όνομα χρήστη"
 
-#: judge/admin/contest.py:368 templates/base.html:249
+#: judge/admin/contest.py:370 templates/base.html:259
 msgid "virtual"
 msgstr "εικονικό"
 
@@ -265,9 +265,9 @@ msgstr "διαδρομή συνδέσμου"
 msgid "Summary"
 msgstr "Περίληψη"
 
-#: judge/admin/interface.py:124 judge/models/contest.py:491
-#: judge/models/contest.py:623 judge/models/profile.py:331
-#: judge/models/profile.py:362 judge/models/submission.py:67
+#: judge/admin/interface.py:124 judge/models/contest.py:500
+#: judge/models/contest.py:632 judge/models/profile.py:349
+#: judge/models/profile.py:380 judge/models/submission.py:67
 #: judge/models/ticket.py:32
 msgid "user"
 msgstr "χρήστης"
@@ -298,8 +298,8 @@ msgid "Taxonomy"
 msgstr "Ταξινομία"
 
 #: judge/admin/problem.py:133 templates/contest/contest.html:196
-#: templates/problem/data.html:380 templates/problem/list.html:202
-#: templates/problem/list.html:224 templates/user/base-users-table.html:10
+#: templates/problem/data.html:381 templates/problem/list.html:193
+#: templates/problem/list.html:215 templates/user/base-users-table.html:11
 #: templates/user/user-problems.html:60
 msgid "Points"
 msgstr "Πόντοι"
@@ -308,9 +308,9 @@ msgstr "Πόντοι"
 msgid "Limits"
 msgstr "Όρια"
 
-#: judge/admin/problem.py:135 judge/admin/submission.py:243
+#: judge/admin/problem.py:135 judge/admin/submission.py:244
 #: templates/problem/submission-diff.html:65 templates/stats/tabs.html:4
-#: templates/submission/list.html:317
+#: templates/submission/list.html:319
 msgid "Language"
 msgstr "Γλώσσα"
 
@@ -355,10 +355,10 @@ msgstr[1] "%d προβλήματα επισημάνθηκαν επιτυχώς �
 msgid "Mark problems as private"
 msgstr "Επισήμανση προβλημάτων ως ιδιωτικό"
 
-#: judge/admin/problem.py:276 judge/models/contest.py:583
-#: judge/models/contest.py:608 judge/models/contest.py:648
-#: judge/models/problem.py:488 judge/models/problem.py:493
-#: judge/models/problem.py:516 judge/models/problem.py:576
+#: judge/admin/problem.py:276 judge/models/contest.py:592
+#: judge/models/contest.py:617 judge/models/contest.py:657
+#: judge/models/problem.py:505 judge/models/problem.py:510
+#: judge/models/problem.py:533 judge/models/problem.py:593
 #: judge/models/problem_data.py:35 judge/models/submission.py:68
 msgid "problem"
 msgstr "πρόβλημα"
@@ -367,19 +367,19 @@ msgstr "πρόβλημα"
 msgid "timezone"
 msgstr "ζώνη ώρας"
 
-#: judge/admin/profile.py:98 judge/admin/submission.py:222
+#: judge/admin/profile.py:98 judge/admin/submission.py:223
 #: templates/organization/requests/log.html:9
 #: templates/organization/requests/pending.html:12
-#: templates/ticket/list.html:201
+#: templates/ticket/list.html:202
 msgid "User"
 msgstr "Χρήστης"
 
-#: judge/admin/profile.py:103 templates/registration/registration_form.html:149
+#: judge/admin/profile.py:103 templates/registration/registration_form.html:145
 msgid "Email"
 msgstr "Email"
 
 #: judge/admin/profile.py:108 judge/views/register.py:28
-#: templates/registration/registration_form.html:177
+#: templates/registration/registration_form.html:173
 msgid "Timezone"
 msgstr "Ζώνη ώρας"
 
@@ -398,26 +398,26 @@ msgstr[1] "%d χρήστες επανυπολογίζουν τη βαθμολο�
 msgid "Recalculate scores"
 msgstr "Επανυπολογισμός βαθμολογίας"
 
-#: judge/admin/runtime.py:50 templates/user/edit-profile.html:124
-#: templates/user/edit-profile.html:246 templates/user/edit-profile.html:366
-#: templates/user/edit-profile.html:396
+#: judge/admin/runtime.py:52 templates/user/edit-profile.html:119
+#: templates/user/edit-profile.html:241 templates/user/edit-profile.html:353
+#: templates/user/edit-profile.html:383
 msgid "Regenerate"
 msgstr "Αναπαραγωγή"
 
-#: judge/admin/runtime.py:64
+#: judge/admin/runtime.py:66
 msgid "Description"
 msgstr "Περιγραφή"
 
-#: judge/admin/runtime.py:65
+#: judge/admin/runtime.py:67
 msgid "Information"
 msgstr "Πληροφορίες"
 
-#: judge/admin/runtime.py:66
+#: judge/admin/runtime.py:68
 msgid "Capabilities"
 msgstr "Δυνατότητες"
 
 #: judge/admin/submission.py:24 judge/admin/submission.py:43
-#: judge/admin/submission.py:232
+#: judge/admin/submission.py:233
 msgid "None"
 msgstr "Κανένα"
 
@@ -449,57 +449,57 @@ msgctxt "contest problem"
 msgid "%(problem)s in %(contest)s"
 msgstr "%(problem)s σε %(contest)s"
 
-#: judge/admin/submission.py:160 judge/admin/submission.py:182
+#: judge/admin/submission.py:161 judge/admin/submission.py:183
 msgid "You do not have the permission to rejudge submissions."
 msgstr "Δεν έχετε την άδεια να επανεξετάσετε υποβολές."
 
-#: judge/admin/submission.py:166
+#: judge/admin/submission.py:167
 msgid "You do not have the permission to rejudge THAT many submissions."
 msgstr "Δεν έχετε την άδεια να επανεξετάσετε ΤΟΣΕΣ πολλές υποβολές."
 
-#: judge/admin/submission.py:178
+#: judge/admin/submission.py:179
 msgid "Rejudge the selected submissions"
 msgstr "Επανεξέταση των επιλεγμένων υποβολών"
 
-#: judge/admin/submission.py:204 judge/views/problem_manage.py:129
+#: judge/admin/submission.py:205 judge/views/problem_manage.py:129
 #, python-format
 msgid "%d submission was successfully rescored."
 msgid_plural "%d submissions were successfully rescored."
 msgstr[0] "%d υποβολή αναβαθμολογήθηκε επιτυχώς."
 msgstr[1] "%d υποβολές αναβαθμολογήθηκαν επιτυχώς."
 
-#: judge/admin/submission.py:207
+#: judge/admin/submission.py:208
 msgid "Rescore the selected submissions"
 msgstr "Αναβαθμολόγηση των επιλεγμένων υποβολών"
 
-#: judge/admin/submission.py:211
+#: judge/admin/submission.py:212
 msgid "Problem code"
 msgstr "Κωδικός προβλήματος"
 
-#: judge/admin/submission.py:216
+#: judge/admin/submission.py:217
 msgid "Problem name"
 msgstr "Όνομα προβλήματος"
 
-#: judge/admin/submission.py:226 templates/organization/requests/log.html:10
+#: judge/admin/submission.py:227 templates/organization/requests/log.html:10
 #: templates/organization/requests/pending.html:13
 msgid "Time"
 msgstr "Ώρα"
 
-#: judge/admin/submission.py:234
+#: judge/admin/submission.py:235
 #, python-format
 msgid "%d KB"
 msgstr "%d KB"
 
-#: judge/admin/submission.py:236
+#: judge/admin/submission.py:237
 #, python-format
 msgid "%.2f MB"
 msgstr "%.2f MB"
 
-#: judge/admin/submission.py:238
+#: judge/admin/submission.py:239
 msgid "Memory"
 msgstr "Μνήμη"
 
-#: judge/admin/submission.py:247
+#: judge/admin/submission.py:248
 msgid "Locked"
 msgstr "Κλειδωμένο"
 
@@ -523,7 +523,8 @@ msgstr "Διαδικτυακός Κριτής"
 msgid "Comment body"
 msgstr "Σώμα σχολίου"
 
-#: judge/comments.py:47 judge/views/comment.py:40 judge/views/ticket.py:46
+#: judge/comments.py:47 judge/views/comment.py:41 judge/views/ticket.py:46
+#: judge/views/user.py:348
 msgid "Your part is silent, little toad."
 msgstr "Το κομμάτι σου είναι σιωπηλό, μικρέ βάτραχε."
 
@@ -631,7 +632,7 @@ msgstr "Μη έγκυρο διακριτικό ελέγχου ταυτότητα
 msgid "Scratch codes must be 16 Base32 characters."
 msgstr "Οι κωδικοί scratch πρέπει να είναι 16 χαρακτήρες βάσης32."
 
-#: judge/forms.py:39 judge/forms.py:265
+#: judge/forms.py:39 judge/forms.py:266
 msgid "Invalid scratch code."
 msgstr "Μη έγκυρος κωδικός scratch."
 
@@ -647,90 +648,90 @@ msgstr "Ενεργοποίηση πειραματικών λειτουργιών
 msgid "You must solve at least one problem before you can update your profile."
 msgstr "Πρέπει να λύσετε τουλάχιστον ένα πρόβλημα πριν να έχετε τη δυνατότητα να ενημερώσετε το προφίλ σας."
 
-#: judge/forms.py:80 judge/views/organization.py:151 judge/views/register.py:58
+#: judge/forms.py:80 judge/views/organization.py:176 judge/views/register.py:58
 #, python-brace-format
 msgid "You may not be part of more than {count} public organization."
 msgid_plural "You may not be part of more than {count} public organizations."
 msgstr[0] "Δεν μπορείτε να είστε μέρος σε περισσότερους από {count} δημόσιου οργανισμού."
 msgstr[1] "Δεν μπορείτε να είστε μέλος σε περισσότερους από {count} δημόσιους οργανισμούς."
 
-#: judge/forms.py:98
+#: judge/forms.py:99
 msgid "Download comments?"
 msgstr "Λήψη σχολίων;"
 
-#: judge/forms.py:99
+#: judge/forms.py:100
 msgid "Download submissions?"
 msgstr "Λήψη υποβολών;"
 
-#: judge/forms.py:100
+#: judge/forms.py:101
 msgid "Filter by problem code glob:"
 msgstr "Φιλτράρισμα ανά glob κώδικα προγράμματος:"
 
-#: judge/forms.py:104
+#: judge/forms.py:105
 msgid "Leave empty to include all submissions"
 msgstr "Αφήστε κενό για να συμπεριλάβετε όλες τις υποβολές"
 
-#: judge/forms.py:107 templates/problem/manage_submission.html:142
+#: judge/forms.py:108 templates/problem/manage_submission.html:144
 msgid "Filter by result:"
 msgstr "Φιλτράρισμα κατά αποτέλεσμα:"
 
-#: judge/forms.py:113
+#: judge/forms.py:114
 msgid "Please select at least one thing to download."
 msgstr "Παρακαλώ επιλέξτε τουλάχιστον ένα πράγμα για λήψη."
 
-#: judge/forms.py:139
+#: judge/forms.py:140
 msgid "Any judge"
 msgstr "Οποιοσδήποτε κριτής"
 
-#: judge/forms.py:160 judge/views/register.py:25
+#: judge/forms.py:161 judge/views/register.py:25
 #: templates/problem/submission-diff.html:63
-#: templates/registration/registration_form.html:143
-#: templates/user/base-users-table.html:5
+#: templates/registration/registration_form.html:139
+#: templates/user/base-users-table.html:6
 msgid "Username"
 msgstr "Όνομα Χρήστη"
 
-#: judge/forms.py:161 templates/registration/registration_form.html:155
-#: templates/registration/registration_form.html:169
+#: judge/forms.py:162 templates/registration/registration_form.html:151
+#: templates/registration/registration_form.html:165
 msgid "Password"
 msgstr "Κωδικόs πρόσβασης"
 
-#: judge/forms.py:193
+#: judge/forms.py:194
 msgid "Invalid code length."
 msgstr "Μη έγκυρο μήκος κωδικού."
 
-#: judge/forms.py:224
+#: judge/forms.py:225
 msgid "Invalid WebAuthn response."
 msgstr "Άκυρη WebAuthn απάντηση."
 
-#: judge/forms.py:227
+#: judge/forms.py:228
 msgid "No WebAuthn challenge issued."
 msgstr "Δεν υπάρχει πρόκληση WebAuthn."
 
-#: judge/forms.py:233
+#: judge/forms.py:234
 msgid "Invalid WebAuthn credential ID."
 msgstr "Μη έγκυρο αναγνωριστικό ID διαπιστευτηρίου WebAuthn."
 
-#: judge/forms.py:263
+#: judge/forms.py:264
 msgid "Invalid two-factor authentication token or scratch code."
 msgstr "Μη έγκυρο διακριτικό ελέγχου ταυτότητας δύο παραγόντων ή κωδικού scratch."
 
-#: judge/forms.py:267
+#: judge/forms.py:268
 msgid "Must specify either totp_token or webauthn_response."
 msgstr "Πρέπει να καθορίσετε είτε totp_token ή webauthn_response."
 
-#: judge/forms.py:271 judge/models/problem.py:118
+#: judge/forms.py:272 judge/models/problem.py:118
 msgid "Problem code must be ^[a-z0-9]+$"
 msgstr "Ο κωδικός προβλήματος πρέπει να είναι ^[a-z0-9]+$"
 
-#: judge/forms.py:276
+#: judge/forms.py:277
 msgid "Problem with code already exists."
 msgstr "Πρόβλημα με αυτόν τον κωδικό υπάρχει ήδη."
 
-#: judge/forms.py:281 judge/models/contest.py:68
+#: judge/forms.py:282 judge/models/contest.py:68
 msgid "Contest id must be ^[a-z0-9]+$"
 msgstr "Το αναγνωριστικό του διαγωνισμού πρέπει να είναι ^[a-z0-9]+$"
 
-#: judge/forms.py:286
+#: judge/forms.py:287
 msgid "Contest with key already exists."
 msgstr "Διαγωνισμός με αυτό το κλειδί υπάρχει ήδη."
 
@@ -739,108 +740,118 @@ msgstr "Διαγωνισμός με αυτό το κλειδί υπάρχει ή
 msgid "N j, Y, g:i a"
 msgstr "j N Y, g:i a"
 
-#: judge/jinja2/datetime.py:30
-#, python-brace-format
-msgid "{time}"
-msgstr "{time}"
-
-#: judge/jinja2/datetime.py:31
-#, python-brace-format
-msgid "on {time}"
-msgstr "στις {time}"
-
 #: judge/jinja2/rating.py:24
 msgid "Unrated"
 msgstr "Μη αξιολογημένο"
 
-#: judge/models/choices.py:59
+#: judge/models/choices.py:24
+msgid "Follow site theme"
+msgstr "Ακολούθησε το θέμα του συστήματος"
+
+#: judge/models/choices.py:60
 msgid "Leave as LaTeX"
 msgstr "Αφήστε ως LaTeX"
 
-#: judge/models/choices.py:60
+#: judge/models/choices.py:61
 msgid "SVG only"
 msgstr "SVG μόνο"
 
-#: judge/models/choices.py:61
+#: judge/models/choices.py:62
 msgid "MathML only"
 msgstr "MathML μόνο"
 
-#: judge/models/choices.py:62
+#: judge/models/choices.py:63
 msgid "MathJax with SVG fallback"
 msgstr "MathJax με SVG εναλλακτική"
 
-#: judge/models/choices.py:63
+#: judge/models/choices.py:64
 msgid "Detect best quality"
 msgstr "Ανίχνευση καλύτερης ποιότητας"
 
-#: judge/models/comment.py:25
+#: judge/models/choices.py:70
+msgid "Follow system default"
+msgstr "Ακολουθήστε το προεπιλεγμένο σύστημα"
+
+#: judge/models/choices.py:71
+msgid "Light"
+msgstr "Φωτεινό"
+
+#: judge/models/choices.py:72
+msgid "Dark"
+msgstr "Σκοτεινό"
+
+#: judge/models/comment.py:23
 msgid "Page code must be ^[pcs]:[a-z0-9]+$|^b:\\d+$"
 msgstr "Ο κωδικός σελίδας πρέπει να είναι ^[pcs]:[a-z0-9]+$|^b:\\d+$"
 
-#: judge/models/comment.py:41
+#: judge/models/comment.py:27
 msgid "commenter"
 msgstr "σχολιαστής"
 
-#: judge/models/comment.py:42
+#: judge/models/comment.py:28
 msgid "posted time"
 msgstr "ώρα δημοσίευσης"
 
-#: judge/models/comment.py:43 judge/models/comment.py:196
+#: judge/models/comment.py:29 judge/models/comment.py:182
 msgid "associated page"
 msgstr "συσχετιζόμενη σελίδα"
 
-#: judge/models/comment.py:45
+#: judge/models/comment.py:31
 msgid "votes"
 msgstr "ψήφοι"
 
-#: judge/models/comment.py:46
+#: judge/models/comment.py:32
 msgid "body of comment"
 msgstr "σώμα σχολίου"
 
-#: judge/models/comment.py:47 templates/contest/list.html:50
+#: judge/models/comment.py:33 templates/contest/list.html:50
 msgid "hidden"
 msgstr "κρυφό"
 
-#: judge/models/comment.py:48
+#: judge/models/comment.py:34
 msgid "parent"
 msgstr "γονέας"
 
-#: judge/models/comment.py:53
+#: judge/models/comment.py:36
+msgid "revisions"
+msgstr "αναθεωρήσεις"
+
+#: judge/models/comment.py:39
 msgid "comment"
 msgstr "σχόλιο"
 
-#: judge/models/comment.py:54
+#: judge/models/comment.py:40
 msgid "comments"
 msgstr "σχόλια"
 
-#: judge/models/comment.py:89 judge/models/comment.py:141
-#: judge/models/problem.py:547
+#: judge/models/comment.py:75 judge/models/comment.py:127
+#: judge/models/problem.py:564
 #, python-format
 msgid "Editorial for %s"
 msgstr "Εξήγηση για %s"
 
-#: judge/models/comment.py:169
+#: judge/models/comment.py:155
 #, python-format
 msgid "%(page)s by %(user)s"
 msgstr ""
 
-#: judge/models/comment.py:191
+#: judge/models/comment.py:177
 msgid "comment vote"
 msgstr "ψήφος σχολίου"
 
-#: judge/models/comment.py:192
+#: judge/models/comment.py:178
 msgid "comment votes"
 msgstr "ψήφοι σχολίου"
 
-#: judge/models/comment.py:201
+#: judge/models/comment.py:187
 msgid "Override comment lock"
 msgstr "Παράκαμψη κλειδώματος σχολίου"
 
-#: judge/models/comment.py:203
+#: judge/models/comment.py:189
 msgid "comment lock"
 msgstr "κλείδωμα σχολίου"
 
-#: judge/models/comment.py:204
+#: judge/models/comment.py:190
 msgid "comment locks"
 msgstr "κλειδαριές σχολίων"
 
@@ -897,7 +908,7 @@ msgid "contest name"
 msgstr "όνομα διαγωνισμού"
 
 #: judge/models/contest.py:70 judge/models/interface.py:67
-#: judge/models/problem.py:536
+#: judge/models/problem.py:553
 msgid "authors"
 msgstr "συγγραφείς"
 
@@ -905,7 +916,7 @@ msgstr "συγγραφείς"
 msgid "These users will be able to edit the contest."
 msgstr "Αυτοί οι χρήστες θα είναι σε θέση να επεξεργαστούν το διαγωνισμό."
 
-#: judge/models/contest.py:73 judge/models/problem.py:126
+#: judge/models/contest.py:73 judge/models/problem.py:127
 msgid "curators"
 msgstr "επιμελητές"
 
@@ -913,7 +924,7 @@ msgstr "επιμελητές"
 msgid "These users will be able to edit the contest, but will not be listed as authors."
 msgstr "Αυτοί οι χρήστες θα είναι σε θέση να επεξεργαστούν το διαγωνισμό, αλλά δεν θα εμφανίζονται ως συγγραφείς."
 
-#: judge/models/contest.py:77 judge/models/problem.py:129
+#: judge/models/contest.py:77 judge/models/problem.py:130
 msgid "testers"
 msgstr "δοκιμαστές"
 
@@ -949,12 +960,12 @@ msgstr "Αυτοί οι χρήστες θα είναι σε θέση να παρ
 msgid "description"
 msgstr "περιγραφή"
 
-#: judge/models/contest.py:89 judge/models/problem.py:489
+#: judge/models/contest.py:89 judge/models/problem.py:506
 #: judge/models/runtime.py:141
 msgid "problems"
 msgstr "προβλήματα"
 
-#: judge/models/contest.py:90 judge/models/contest.py:492
+#: judge/models/contest.py:90 judge/models/contest.py:501
 msgid "start time"
 msgstr "ώρα έναρξης"
 
@@ -962,12 +973,12 @@ msgstr "ώρα έναρξης"
 msgid "end time"
 msgstr "ώρα λήξης"
 
-#: judge/models/contest.py:92 judge/models/problem.py:136
-#: judge/models/problem.py:518
+#: judge/models/contest.py:92 judge/models/problem.py:137
+#: judge/models/problem.py:535
 msgid "time limit"
 msgstr "χρονικό όριο"
 
-#: judge/models/contest.py:93 judge/models/problem.py:154
+#: judge/models/contest.py:93 judge/models/problem.py:155
 msgid "publicly visible"
 msgstr "δημόσια ορατό"
 
@@ -1021,7 +1032,7 @@ msgstr "χαμηλότερη αξιολόγηση"
 
 #: judge/models/contest.py:113
 msgid "Do not rate users who have a lower rating."
-msgstr ""
+msgstr "Να μην αξιολογούνται οι χρήστες που έχουν χαμηλότερη βαθμολογία."
 
 #: judge/models/contest.py:114
 msgid "rating ceiling"
@@ -1029,7 +1040,7 @@ msgstr "ανώτατο όριο αξιολόγησης"
 
 #: judge/models/contest.py:115
 msgid "Do not rate users who have a higher rating."
-msgstr ""
+msgstr "Να μην αξιολογούνται οι χρήστες που έχουν υψηλότερη βαθμολογία."
 
 #: judge/models/contest.py:117
 msgid "rate all"
@@ -1087,11 +1098,11 @@ msgstr "εμφάνιση μερικών ρυθμίσεων φόρμας"
 msgid "Whether to show a section containing contest settings on the contest page or not."
 msgstr "Εάν θα εμφανίζεται μια ενότητα που περιέχει ρυθμίσεις διαγωνισμού στη σελίδα διαγωνισμού ή όχι."
 
-#: judge/models/contest.py:139 judge/models/problem.py:180
+#: judge/models/contest.py:139 judge/models/problem.py:181
 msgid "private to organizations"
 msgstr "ιδιωτικό για οργανισμούς"
 
-#: judge/models/contest.py:140 judge/models/problem.py:178
+#: judge/models/contest.py:140 judge/models/problem.py:179
 #: judge/models/profile.py:99
 msgid "organizations"
 msgstr "οργανισμοί"
@@ -1121,7 +1132,7 @@ msgid "If organization private, only these classes may see the contest."
 msgstr "Εάν ιδιωτικό για οργανισμό, μόνο αυτές οι κατηγορίες μπορούν να δουν το διαγωνισμό."
 
 #: judge/models/contest.py:148 judge/models/interface.py:74
-#: judge/models/problem.py:164
+#: judge/models/problem.py:165
 msgid "OpenGraph image"
 msgstr "Εικόνα OpenGraph"
 
@@ -1141,7 +1152,7 @@ msgstr "ο αριθμός των ζωντανών συμμετεχόντων"
 msgid "contest summary"
 msgstr "σύνοψη διαγωνισμού"
 
-#: judge/models/contest.py:156 judge/models/problem.py:166
+#: judge/models/contest.py:156 judge/models/problem.py:167
 msgid "Plain-text, shown in meta description tag, e.g. for social media."
 msgstr "Απλό κείμενο, που εμφανίζεται στην ετικέτα meta, π.χ. για τα μέσα κοινωνικής δικτύωσης."
 
@@ -1154,7 +1165,7 @@ msgstr "κωδικός πρόσβασης"
 msgid "An optional code to prompt contestants before they are allowed to join the contest. Leave it blank to disable."
 msgstr "Ένας προαιρετικός κώδικας για την προτροπή των διαγωνιζομένων πριν τους επιτραπεί να συμμετάσχουν στο διαγωνισμό. Αφήστε το κενό για απενεργοποίηση."
 
-#: judge/models/contest.py:160 judge/models/problem.py:160
+#: judge/models/contest.py:160 judge/models/problem.py:161
 msgid "personae non gratae"
 msgstr "personae non gratae"
 
@@ -1202,213 +1213,213 @@ msgstr "πόντοι ακρίβειας"
 msgid "Number of digits to round points to."
 msgstr "Αριθμός ψηφίων στρογγυλοποίησης πόντων."
 
-#: judge/models/contest.py:470
+#: judge/models/contest.py:479
 msgid "See private contests"
 msgstr "Δείτε ιδιωτικούς διαγωνισμούς"
 
-#: judge/models/contest.py:471
+#: judge/models/contest.py:480
 msgid "Edit own contests"
 msgstr "Επεξεργασία δικών σας διαγωνισμών"
 
-#: judge/models/contest.py:472
+#: judge/models/contest.py:481
 msgid "Edit all contests"
 msgstr "Επεξεργασία όλων των διαγωνισμών"
 
-#: judge/models/contest.py:473
+#: judge/models/contest.py:482
 msgid "Clone contest"
 msgstr "Κλωνοποίηση διαγωνισμού"
 
-#: judge/models/contest.py:474 templates/contest/moss.html:76
+#: judge/models/contest.py:483 templates/contest/moss.html:76
 msgid "MOSS contest"
 msgstr "Διαγωνισμός MOSS"
 
-#: judge/models/contest.py:475
+#: judge/models/contest.py:484
 msgid "Rate contests"
 msgstr "Αξιολόγηση διαγωνισμών"
 
-#: judge/models/contest.py:476
+#: judge/models/contest.py:485
 msgid "Contest access codes"
 msgstr "Κωδικοί πρόσβασης διαγωνισμού"
 
-#: judge/models/contest.py:477
+#: judge/models/contest.py:486
 msgid "Create private contests"
 msgstr "Δημιουργία ιδιωτικών διαγωνισμών"
 
-#: judge/models/contest.py:478
+#: judge/models/contest.py:487
 msgid "Change contest visibility"
 msgstr "Αλλαγή ορατότητας διαγωνισμού"
 
-#: judge/models/contest.py:479
+#: judge/models/contest.py:488
 msgid "Edit contest problem label script"
 msgstr "Επεξεργαστείτε το script ετικέτας προβλήματος διαγωνισμού"
 
-#: judge/models/contest.py:480
+#: judge/models/contest.py:489
 msgid "Change lock status of contest"
 msgstr "Αλλαγή κατάστασης κλειδώματος του διαγωνισμού"
 
-#: judge/models/contest.py:482 judge/models/contest.py:584
-#: judge/models/contest.py:624 judge/models/contest.py:647
-#: judge/models/submission.py:87
+#: judge/models/contest.py:491 judge/models/contest.py:593
+#: judge/models/contest.py:633 judge/models/contest.py:656
+#: judge/models/submission.py:88
 msgid "contest"
 msgstr "διαγωνισμός"
 
-#: judge/models/contest.py:483
+#: judge/models/contest.py:492
 msgid "contests"
 msgstr "διαγωνισμοί"
 
-#: judge/models/contest.py:490
+#: judge/models/contest.py:499
 msgid "associated contest"
 msgstr "σχετικός διαγωνισμός"
 
-#: judge/models/contest.py:493
+#: judge/models/contest.py:502
 msgid "score"
 msgstr "βαθμολογία"
 
-#: judge/models/contest.py:494
+#: judge/models/contest.py:503
 msgid "cumulative time"
 msgstr "αθροιστικός χρόνος"
 
-#: judge/models/contest.py:495
+#: judge/models/contest.py:504
 msgid "is disqualified"
 msgstr "έχει αποκλειστεί"
 
-#: judge/models/contest.py:496
+#: judge/models/contest.py:505
 msgid "Whether this participation is disqualified."
 msgstr "Εάν αυτή η συμμετοχή έχει αποκλειστεί."
 
-#: judge/models/contest.py:497
+#: judge/models/contest.py:506
 msgid "tie-breaking field"
 msgstr "τάι μπρέικ πεδίο"
 
-#: judge/models/contest.py:498
+#: judge/models/contest.py:507
 msgid "virtual participation id"
 msgstr "id εικονικής συμμετοχής"
 
-#: judge/models/contest.py:499
+#: judge/models/contest.py:508
 msgid "0 means non-virtual, otherwise the n-th virtual participation."
 msgstr "0 σημαίνει μη εικονική, εναλλακτικά η n-ιοστή εικονική συμμετοχή."
 
-#: judge/models/contest.py:500
+#: judge/models/contest.py:509
 msgid "contest format specific data"
 msgstr "ειδικά δεδομένα μορφής διαγωνισμού"
 
-#: judge/models/contest.py:568
+#: judge/models/contest.py:577
 #, python-format
 msgid "%(user)s spectating in %(contest)s"
-msgstr ""
+msgstr "Συμμετοχή του/της %(user)s στο %(contest)s"
 
-#: judge/models/contest.py:570
+#: judge/models/contest.py:579
 #, python-format
 msgid "%(user)s in %(contest)s, v%(id)d"
-msgstr ""
+msgstr "%(user)s σε %(contest)s, v%(id)d"
 
-#: judge/models/contest.py:573
+#: judge/models/contest.py:582
 #, python-format
 msgid "%(user)s in %(contest)s"
-msgstr ""
+msgstr "%(user)s σε %(contest)s"
 
-#: judge/models/contest.py:576
+#: judge/models/contest.py:585
 msgid "contest participation"
 msgstr "συμμετοχή διαγωνισμού"
 
-#: judge/models/contest.py:577
+#: judge/models/contest.py:586
 msgid "contest participations"
 msgstr "συμμετοχές διαγωνισμού"
 
-#: judge/models/contest.py:585 judge/models/contest.py:612
-#: judge/models/problem.py:147
+#: judge/models/contest.py:594 judge/models/contest.py:621
+#: judge/models/problem.py:148
 msgid "points"
 msgstr "πόντοι"
 
-#: judge/models/contest.py:586
+#: judge/models/contest.py:595
 msgid "partial"
 msgstr "εν μέρει"
 
-#: judge/models/contest.py:587 judge/models/contest.py:613
+#: judge/models/contest.py:596 judge/models/contest.py:622
 msgid "is pretested"
 msgstr "είναι προδοκιμασμένο"
 
-#: judge/models/contest.py:588 judge/models/interface.py:43
+#: judge/models/contest.py:597 judge/models/interface.py:43
 msgid "order"
 msgstr "σειρά"
 
-#: judge/models/contest.py:589
+#: judge/models/contest.py:598
 msgid "output prefix length override"
 msgstr "παράκαμψη μήκους προθέματος εξόδου"
 
-#: judge/models/contest.py:591
+#: judge/models/contest.py:600
 msgid "max submissions"
 msgstr "μέγιστες υποβολές"
 
-#: judge/models/contest.py:592
+#: judge/models/contest.py:601
 msgid "Maximum number of submissions for this problem, or leave blank for no limit."
 msgstr "Μέγιστος αριθμός υποβολών για αυτό το πρόβλημα ή αφήστε κενό για χωρίς όριο."
 
-#: judge/models/contest.py:595
+#: judge/models/contest.py:604
 msgid "Why include a problem you can't submit to?"
 msgstr "Γιατί να συμπεριλάβετε πρόβλημα στο οποίο δεν μπορείτε να υποβάλετε;"
 
-#: judge/models/contest.py:600
+#: judge/models/contest.py:609
 msgid "contest problem"
 msgstr "πρόβλημα διαγωνισμού"
 
-#: judge/models/contest.py:601
+#: judge/models/contest.py:610
 msgid "contest problems"
 msgstr "προβλήματα διαγωνισμού"
 
-#: judge/models/contest.py:606 judge/models/submission.py:230
+#: judge/models/contest.py:615 judge/models/submission.py:231
 msgid "submission"
 msgstr "υποβολή"
 
-#: judge/models/contest.py:610 judge/models/contest.py:625
+#: judge/models/contest.py:619 judge/models/contest.py:634
 msgid "participation"
 msgstr "συμμετοχή"
 
-#: judge/models/contest.py:614
+#: judge/models/contest.py:623
 msgid "Whether this submission was ran only on pretests."
 msgstr "Εάν αυτή η υποβολή έτρεξε μόνο σε προδοκιμές."
 
-#: judge/models/contest.py:618
+#: judge/models/contest.py:627
 msgid "contest submission"
 msgstr "υποβολή διαγωνισμού"
 
-#: judge/models/contest.py:619
+#: judge/models/contest.py:628
 msgid "contest submissions"
 msgstr "υποβολές διαγωνισμού"
 
-#: judge/models/contest.py:627
+#: judge/models/contest.py:636
 msgid "rank"
 msgstr "βαθμίδα"
 
-#: judge/models/contest.py:628
+#: judge/models/contest.py:637
 msgid "rating"
 msgstr "αξιολόγηση"
 
-#: judge/models/contest.py:629
+#: judge/models/contest.py:638
 msgid "raw rating"
 msgstr "ακατέργαστη αξιολόγηση"
 
-#: judge/models/contest.py:630
+#: judge/models/contest.py:639
 msgid "contest performance"
 msgstr "επίδοση στο διαγωνισμό"
 
-#: judge/models/contest.py:631
+#: judge/models/contest.py:640
 msgid "last rated"
 msgstr "τελευταία αξιολόγηση"
 
-#: judge/models/contest.py:635
+#: judge/models/contest.py:644
 msgid "contest rating"
 msgstr "αξιολόγηση διαγωνισμού"
 
-#: judge/models/contest.py:636
+#: judge/models/contest.py:645
 msgid "contest ratings"
 msgstr "αξιολογήσεις διαγωνισμού"
 
-#: judge/models/contest.py:655
+#: judge/models/contest.py:664
 msgid "contest moss result"
 msgstr "αποτέλεσμα διαγωνισμού moss"
 
-#: judge/models/contest.py:656
+#: judge/models/contest.py:665
 msgid "contest moss results"
 msgstr "αποτελέσματα διαγωνισμού moss"
 
@@ -1460,7 +1471,7 @@ msgstr "τίτλος ανάρτησης"
 msgid "slug"
 msgstr "slug"
 
-#: judge/models/interface.py:69 judge/models/problem.py:534
+#: judge/models/interface.py:69 judge/models/problem.py:551
 msgid "public visibility"
 msgstr "δημόσια ορατότητα"
 
@@ -1513,7 +1524,7 @@ msgstr "όνομα κατηγορίας προβλήματος"
 msgid "problem type"
 msgstr "τύπος προβλήματος"
 
-#: judge/models/problem.py:43 judge/models/problem.py:132
+#: judge/models/problem.py:43 judge/models/problem.py:133
 msgid "problem types"
 msgstr "τύποι προβλήματος"
 
@@ -1525,7 +1536,7 @@ msgstr "ID ομάδας προβλημάτων"
 msgid "problem group name"
 msgstr "όνομα ομάδας προβλημάτων"
 
-#: judge/models/problem.py:55 judge/models/problem.py:134
+#: judge/models/problem.py:55 judge/models/problem.py:135
 msgid "problem group"
 msgstr "ομάδα προβλημάτων"
 
@@ -1562,7 +1573,7 @@ msgstr "URL για το εικονίδιο."
 msgid "license text"
 msgstr "κείμενο άδειας χρήσης"
 
-#: judge/models/problem.py:76 judge/models/problem.py:162
+#: judge/models/problem.py:76 judge/models/problem.py:163
 msgid "license"
 msgstr "άδεια"
 
@@ -1602,264 +1613,264 @@ msgstr "όνομα προβλήματος"
 msgid "The full name of the problem, as shown in the problem list."
 msgstr "Το πλήρες όνομα του προβλήματος, όπως φαίνεται στη λίστα προβλημάτων."
 
-#: judge/models/problem.py:122
+#: judge/models/problem.py:123
 msgid "problem body"
 msgstr "σώμα προβλήματος"
 
-#: judge/models/problem.py:123
+#: judge/models/problem.py:124
 msgid "creators"
 msgstr "δημιουργοί"
 
-#: judge/models/problem.py:124
+#: judge/models/problem.py:125
 msgid "These users will be able to edit the problem, and be listed as authors."
 msgstr "Αυτοί οι χρήστες θα είναι σε θέση να επεξεργάζονται το πρόβλημα και να εμφανίζονται ως συγγραφείς."
 
-#: judge/models/problem.py:127
+#: judge/models/problem.py:128
 msgid "These users will be able to edit the problem, but not be listed as authors."
 msgstr "Αυτοί οι χρήστες θα είναι σε θέση να επεξεργάζονται το πρόβλημα, αλλά δεν θα εμφανίζονται ως συγγραφείς."
 
-#: judge/models/problem.py:131
+#: judge/models/problem.py:132
 msgid "These users will be able to view the private problem, but not edit it."
 msgstr "Αυτοί οι χρήστες θα είναι σε θέση να δουν το ιδιωτικό πρόβλημα, αλλά όχι να το επεξεργαστούν."
 
-#: judge/models/problem.py:133
+#: judge/models/problem.py:134
 msgid "The type of problem, as shown on the problem's page."
 msgstr "Ο τύπος του προβλήματος, όπως εμφανίζεται στη σελίδα του προβλήματος."
 
-#: judge/models/problem.py:135
+#: judge/models/problem.py:136
 msgid "The group of problem, shown under Category in the problem list."
 msgstr "Η ομάδα του προβλήματος, όπως εμφανίζεται στην Κατηγορία στη λίστα προβλημάτων."
 
-#: judge/models/problem.py:137
+#: judge/models/problem.py:138
 msgid "The time limit for this problem, in seconds. Fractional seconds (e.g. 1.5) are supported."
 msgstr "Το χρονικό όριο για αυτό το πρόβλημα, σε δευτερόλεπτα. Κλασματικά δευτερόλεπτα (π.χ. 1.5) υποστηρίζονται."
 
-#: judge/models/problem.py:141 judge/models/problem.py:521
+#: judge/models/problem.py:142 judge/models/problem.py:538
 msgid "memory limit"
 msgstr "όριο μνήμης"
 
-#: judge/models/problem.py:142
+#: judge/models/problem.py:143
 msgid "The memory limit for this problem, in kilobytes (e.g. 256mb = 262144 kilobytes)."
 msgstr "Το όριο μνήμης για αυτό το πρόβλημα, σε kilobytes (π.χ. 256mb = 262144 kilobytes)."
 
-#: judge/models/problem.py:146
+#: judge/models/problem.py:147
 msgid "short circuit"
 msgstr "βραχυκύκλωμα"
 
-#: judge/models/problem.py:148
+#: judge/models/problem.py:149
 msgid "Points awarded for problem completion. Points are displayed with a 'p' suffix if partial."
 msgstr "Πόντοι που απονέμονται για την ολοκλήρωση του προβλήματος. Οι πόντοι εμφανίζονται με επίθεμα 'p' αν βαθμολογείται μερικώς."
 
-#: judge/models/problem.py:151
+#: judge/models/problem.py:152
 msgid "allows partial points"
 msgstr "επιτρέπεται μερική βαθμολόγηση"
 
-#: judge/models/problem.py:152
+#: judge/models/problem.py:153
 msgid "allowed languages"
 msgstr "επιτρεπόμενες γλώσσες"
 
-#: judge/models/problem.py:153
+#: judge/models/problem.py:154
 msgid "List of allowed submission languages."
 msgstr "Λίστα επιτρεπόμενων γλωσσών υποβολής."
 
-#: judge/models/problem.py:155
+#: judge/models/problem.py:156
 msgid "manually managed"
 msgstr "χειροκίνητη διαχείριση"
 
-#: judge/models/problem.py:156
+#: judge/models/problem.py:157
 msgid "Whether judges should be allowed to manage data or not."
 msgstr "Αν οι κριτές θα επιτρέπεται να διαχειρίζονται δεδομένα ή όχι."
 
-#: judge/models/problem.py:157
+#: judge/models/problem.py:158
 msgid "date of publishing"
 msgstr "ημερομηνία δημοσίευσης"
 
-#: judge/models/problem.py:159
+#: judge/models/problem.py:160
 msgid "Doesn't have the magic ability to auto-publish due to backward compatibility."
 msgstr "Δεν έχει μαγική ικανότητα αυτόματης δημοσίευσης λόγω οπισθόδρομης συμβατότητας."
 
-#: judge/models/problem.py:161
+#: judge/models/problem.py:162
 msgid "Bans the selected users from submitting to this problem."
 msgstr "Απαγορεύει στους επιλεγμένους χρήστες την υποβολή σε αυτό το πρόβλημα."
 
-#: judge/models/problem.py:163
+#: judge/models/problem.py:164
 msgid "The license under which this problem is published."
 msgstr "Η άδεια χρήσης υπό την οποία δημοσιεύεται αυτό το πρόβλημα."
 
-#: judge/models/problem.py:165
+#: judge/models/problem.py:166
 msgid "problem summary"
 msgstr "σύνοψη προβλήματος"
 
-#: judge/models/problem.py:167
+#: judge/models/problem.py:168
 msgid "number of users"
 msgstr "αριθμός χρηστών"
 
-#: judge/models/problem.py:168
+#: judge/models/problem.py:169
 msgid "The number of users who solved the problem."
 msgstr "Ο αριθμός των χρηστών που έλυσαν το πρόβλημα."
 
-#: judge/models/problem.py:169
+#: judge/models/problem.py:170
 msgid "solve rate"
 msgstr "ρυθμός επίλυσης"
 
-#: judge/models/problem.py:170
+#: judge/models/problem.py:171
 msgid "allow full markdown access"
 msgstr "επιτρέπει πλήρη πρόσβαση markdown"
 
-#: judge/models/problem.py:171
+#: judge/models/problem.py:172
 msgid "submission source visibility"
 msgstr "ορατότητα πηγής υποβολής"
 
-#: judge/models/problem.py:179
+#: judge/models/problem.py:180
 msgid "If private, only these organizations may see the problem."
 msgstr "Εάν ιδιωτικό, μόνο αυτοί οι οργανισμοί μπορούν να δουν το πρόβλημα."
 
-#: judge/models/problem.py:478
+#: judge/models/problem.py:495
 msgid "See hidden problems"
 msgstr "Δείτε κρυμμένα προβλήματα"
 
-#: judge/models/problem.py:479
+#: judge/models/problem.py:496
 msgid "Edit own problems"
 msgstr "Επεξεργασία δικών σας προβλημάτων"
 
-#: judge/models/problem.py:480
+#: judge/models/problem.py:497
 msgid "Edit all problems"
 msgstr "Επεξεργασία όλων των προβλημάτων"
 
-#: judge/models/problem.py:481
+#: judge/models/problem.py:498
 msgid "Edit all public problems"
 msgstr "Επεξεργασία όλων των δημόσιων προβλημάτων"
 
-#: judge/models/problem.py:482
+#: judge/models/problem.py:499
 msgid "Edit problems with full markup"
 msgstr "Επεξεργασία προβλημάτων με πλήρη markup"
 
-#: judge/models/problem.py:483 templates/problem/problem.html:181
+#: judge/models/problem.py:500 templates/problem/problem.html:181
 msgid "Clone problem"
 msgstr "Κλωνοποίηση προβλήματος"
 
-#: judge/models/problem.py:484
+#: judge/models/problem.py:501
 msgid "Change is_public field"
 msgstr "Αλλαγή is_public πεδίου"
 
-#: judge/models/problem.py:485
+#: judge/models/problem.py:502
 msgid "Change is_manually_managed field"
 msgstr "Αλλαγή is_manually_managed πεδίου"
 
-#: judge/models/problem.py:486
+#: judge/models/problem.py:503
 msgid "See organization-private problems"
 msgstr "Δείτε ιδιωτικά-οργανισμών προβλήματα"
 
-#: judge/models/problem.py:494 judge/models/problem.py:517
+#: judge/models/problem.py:511 judge/models/problem.py:534
 #: judge/models/runtime.py:111
 msgid "language"
 msgstr "γλώσσα"
 
-#: judge/models/problem.py:495
+#: judge/models/problem.py:512
 msgid "translated name"
 msgstr "μεταφρασμένο όνομα"
 
-#: judge/models/problem.py:496
+#: judge/models/problem.py:513
 msgid "translated description"
 msgstr "μεταφρασμένη περιγραφή"
 
-#: judge/models/problem.py:501
+#: judge/models/problem.py:518
 msgid "problem translation"
 msgstr "μετάφραση προβλήματος"
 
-#: judge/models/problem.py:502
+#: judge/models/problem.py:519
 msgid "problem translations"
 msgstr "μεταφράσεις προβλήματος"
 
-#: judge/models/problem.py:506
+#: judge/models/problem.py:523
 msgid "clarified problem"
 msgstr "διευκρινισμένο πρόβλημα"
 
-#: judge/models/problem.py:507
+#: judge/models/problem.py:524
 msgid "clarification body"
 msgstr "σώμα διευκρίνησης"
 
-#: judge/models/problem.py:508
+#: judge/models/problem.py:525
 msgid "clarification timestamp"
 msgstr "χρονοσφραγίδα διευκρίνησης"
 
-#: judge/models/problem.py:511
+#: judge/models/problem.py:528
 msgid "problem clarification"
 msgstr "διευκρίνηση προβλήματος"
 
-#: judge/models/problem.py:512
+#: judge/models/problem.py:529
 msgid "problem clarifications"
 msgstr "διευκρινίσεις προβλήματος"
 
-#: judge/models/problem.py:527
+#: judge/models/problem.py:544
 msgid "language-specific resource limit"
 msgstr "ειδικό όριο πόρων για τη γλώσσα"
 
-#: judge/models/problem.py:528
+#: judge/models/problem.py:545
 msgid "language-specific resource limits"
 msgstr "ειδικά όρια πόρων για τη γλώσσα"
 
-#: judge/models/problem.py:532
+#: judge/models/problem.py:549
 msgid "associated problem"
 msgstr "συσχετιζόμενο πρόβλημα"
 
-#: judge/models/problem.py:535
+#: judge/models/problem.py:552
 msgid "publish date"
 msgstr "ημερομηνία δημοσίευσης"
 
-#: judge/models/problem.py:537
+#: judge/models/problem.py:554
 msgid "editorial content"
 msgstr "περιεχόμενο εξήγησης"
 
-#: judge/models/problem.py:560
+#: judge/models/problem.py:577
 msgid "See hidden solutions"
 msgstr "Δείτε κρυφές λύσεις"
 
-#: judge/models/problem.py:562
+#: judge/models/problem.py:579
 msgid "solution"
 msgstr "λύση"
 
-#: judge/models/problem.py:563
+#: judge/models/problem.py:580
 msgid "solutions"
 msgstr "λύσεις"
 
-#: judge/models/problem.py:568
+#: judge/models/problem.py:585
 msgid "proposed points"
-msgstr ""
+msgstr "Προτεινόμενα σημεία"
 
-#: judge/models/problem.py:569
+#: judge/models/problem.py:586
 msgid "The amount of points the voter thinks this problem deserves."
-msgstr ""
+msgstr "Ο αριθμός των πόντων που ο ψηφοφόρος πιστεύει ότι αξίζει αυτό το πρόβλημα."
 
-#: judge/models/problem.py:575
+#: judge/models/problem.py:592
 msgid "voter"
 msgstr "ψηφοφόρος"
 
-#: judge/models/problem.py:578
+#: judge/models/problem.py:595
 msgid "vote time"
-msgstr ""
+msgstr "Ώρα ψηφοφορίας"
 
-#: judge/models/problem.py:578
+#: judge/models/problem.py:595
 msgid "The time this vote was cast."
-msgstr ""
+msgstr "Ήρθε η ώρα να διεξαχθεί αυτή η ψηφοφορία."
 
-#: judge/models/problem.py:580
+#: judge/models/problem.py:597
 msgid "note"
 msgstr "σημείωση"
 
-#: judge/models/problem.py:580
+#: judge/models/problem.py:597
 msgid "Justification for problem point value."
-msgstr ""
+msgstr "Αιτιολόγηση για την τιμή των πόντων προβλήματος."
 
-#: judge/models/problem.py:584
+#: judge/models/problem.py:601
 msgid "problem vote"
-msgstr ""
+msgstr "Πρόβλημα ψήφου"
 
-#: judge/models/problem.py:585
+#: judge/models/problem.py:602
 msgid "problem votes"
-msgstr ""
+msgstr "Πρόβλημα ψήφων"
 
-#: judge/models/problem.py:588
+#: judge/models/problem.py:605
 #, python-format
 msgid "Points vote by %(voter)s for %(problem)s"
 msgstr ""
@@ -1885,8 +1896,8 @@ msgid "Non-trailing spaces"
 msgstr "Χωρίς κενά στο τέλος"
 
 #: judge/models/problem_data.py:28
-msgid "Unordered"
-msgstr "Μη ταξινομημένο"
+msgid "Sorted"
+msgstr "Ταξινομημένα"
 
 #: judge/models/problem_data.py:29
 msgid "Byte identical"
@@ -2057,7 +2068,7 @@ msgid "Edit all organizations"
 msgstr "Επεξεργασία όλων των οργανισμών"
 
 #: judge/models/profile.py:98 judge/models/profile.py:103
-#: judge/models/profile.py:160 judge/models/profile.py:363
+#: judge/models/profile.py:161 judge/models/profile.py:381
 msgid "organization"
 msgstr "οργανισμός"
 
@@ -2096,9 +2107,9 @@ msgstr "μέλη"
 #: judge/models/profile.py:128
 #, python-format
 msgid "%(class)s in %(organization)s"
-msgstr ""
+msgstr "%(class)s σε %(organization)s"
 
-#: judge/models/profile.py:142 judge/models/profile.py:371
+#: judge/models/profile.py:142 judge/models/profile.py:389
 msgid "class"
 msgstr "κατηγορία"
 
@@ -2123,26 +2134,30 @@ msgid "Ace theme"
 msgstr "Ace θέμα"
 
 #: judge/models/profile.py:158
+msgid "site theme"
+msgstr "Θέμα ιστότοπου"
+
+#: judge/models/profile.py:159
 msgid "last access time"
 msgstr "τελευταία ώρα πρόσβασης"
 
-#: judge/models/profile.py:159
+#: judge/models/profile.py:160
 msgid "last IP"
 msgstr "τελευταία IP"
 
-#: judge/models/profile.py:162
+#: judge/models/profile.py:163
 msgid "display rank"
 msgstr "εμφάνιση βαθμίδας"
 
-#: judge/models/profile.py:164
+#: judge/models/profile.py:165
 msgid "Normal User"
 msgstr "Κανονικός Χρήστης"
 
-#: judge/models/profile.py:165
+#: judge/models/profile.py:166
 msgid "Problem Setter"
 msgstr "Δημιουργός Προβλημάτων"
 
-#: judge/models/profile.py:166 templates/base.html:211
+#: judge/models/profile.py:167 templates/base.html:221
 #: templates/comments/list.html:97 templates/contest/contest-list-tabs.html:25
 #: templates/contest/ranking-table.html:51
 #: templates/problem/problem-list-tabs.html:6
@@ -2152,200 +2167,200 @@ msgstr "Δημιουργός Προβλημάτων"
 msgid "Admin"
 msgstr "Διαχειριστής"
 
-#: judge/models/profile.py:167
+#: judge/models/profile.py:168
 msgid "comment mute"
 msgstr "σίγαση σχολίου"
 
-#: judge/models/profile.py:167
+#: judge/models/profile.py:168
 msgid "Some users are at their best when silent."
 msgstr "Μερικοί χρήστες είναι στα καλύτερά τους όταν είναι σιωπηλοί."
 
-#: judge/models/profile.py:169
+#: judge/models/profile.py:170
 msgid "unlisted user"
 msgstr "μη καταχωρημένος χρήστης"
 
-#: judge/models/profile.py:169
+#: judge/models/profile.py:170
 msgid "User will not be ranked."
 msgstr "Ο χρήστης δεν θα βαθμονομηθεί."
 
-#: judge/models/profile.py:172
+#: judge/models/profile.py:173
 msgid "banned from voting on problem point values"
 msgstr ""
 
-#: judge/models/profile.py:173
+#: judge/models/profile.py:174
 msgid "User will not be able to vote on problems' point values."
-msgstr ""
+msgstr "Ο χρήστης δεν θα είναι σε θέση να ψηφίσει για την αξία των πόντων των προβλημάτων."
 
-#: judge/models/profile.py:177
+#: judge/models/profile.py:178
 msgid "user script"
 msgstr "script χρήστη"
 
-#: judge/models/profile.py:178
+#: judge/models/profile.py:179
 msgid "User-defined JavaScript for site customization."
 msgstr "Καθορισμένη από το χρήστη JavaScript για εξατομίκευση ιστότοπου."
 
-#: judge/models/profile.py:179
+#: judge/models/profile.py:180
 msgid "current contest"
 msgstr "τρέχων διαγωνισμός"
 
-#: judge/models/profile.py:181
+#: judge/models/profile.py:182
 msgid "math engine"
 msgstr "μηχανή μαθηματικών"
 
-#: judge/models/profile.py:183
+#: judge/models/profile.py:184
 msgid "The rendering engine used to render math."
 msgstr "Η μηχανή απεικόνισης που χρησιμοποιείται για την απεικόνιση μαθηματικών."
 
-#: judge/models/profile.py:184
+#: judge/models/profile.py:185
 msgid "TOTP 2FA enabled"
 msgstr "TOTP 2FA ενεργοποιημένο"
 
-#: judge/models/profile.py:185
+#: judge/models/profile.py:186
 msgid "Check to enable TOTP-based two-factor authentication."
 msgstr "Τσεκάρετε για να ενεργοποιήσετε τον έλεγχο ταυτότητας δύο παραγόντων βάσει TOTP."
 
-#: judge/models/profile.py:186
+#: judge/models/profile.py:187
 msgid "WebAuthn 2FA enabled"
 msgstr "WebAuthn 2FA ενεργοποιημένο"
 
-#: judge/models/profile.py:187
+#: judge/models/profile.py:188
 msgid "Check to enable WebAuthn-based two-factor authentication."
 msgstr "Τσεκάρετε για να ενεργοποιήσετε τον έλεγχο ταυτότητας δύο παραγόντων βάσει WebAuthn."
 
-#: judge/models/profile.py:188
+#: judge/models/profile.py:189
 msgid "TOTP key"
 msgstr "TOTP κλειδί"
 
-#: judge/models/profile.py:189
+#: judge/models/profile.py:190
 msgid "32-character Base32-encoded key for TOTP."
 msgstr "32 χαρακτήρων βάσης32-κωδικοποιημένο κλειδί για TOTP."
 
-#: judge/models/profile.py:191
+#: judge/models/profile.py:192
 msgid "TOTP key must be empty or Base32."
 msgstr "Το κλειδί TOTP πρέπει να είναι άδειο ή βάσης32."
 
-#: judge/models/profile.py:192
+#: judge/models/profile.py:193
 msgid "scratch codes"
 msgstr "κωδικοί scratch"
 
-#: judge/models/profile.py:193
+#: judge/models/profile.py:194
 msgid "JSON array of 16-character Base32-encoded codes for scratch codes."
 msgstr "JSON πίνακας 16 χαρακτήρων βάσης32-κωδικοποιημένων κωδικών για scratch."
 
-#: judge/models/profile.py:197
+#: judge/models/profile.py:198
 msgid "Scratch codes must be empty or a JSON array of 16-character Base32 codes."
 msgstr "Οι κωδικοί scratch πρέπει να είναι κενοί ή πίνακας JSON κωδικών 16 χαρακτήρων βάσης32."
 
-#: judge/models/profile.py:199
+#: judge/models/profile.py:200
 msgid "last TOTP timecode"
 msgstr "τελευταίος κωδικός χρόνου TOTP"
 
-#: judge/models/profile.py:200
+#: judge/models/profile.py:201
 msgid "API token"
 msgstr "Διακριτικό API"
 
-#: judge/models/profile.py:201
+#: judge/models/profile.py:202
 msgid "64-character hex-encoded API access token."
 msgstr "Hex-κωδικοποιημένο διακριτικό πρόσβασης API 64 χαρακτήρων."
 
-#: judge/models/profile.py:203
+#: judge/models/profile.py:204
 msgid "API token must be None or hexadecimal"
 msgstr "Το διακριτικό API πρέπει να είναι Κανένα ή δεκαεξαδικό"
 
-#: judge/models/profile.py:204
+#: judge/models/profile.py:205
 msgid "internal notes"
 msgstr "εσωτερικές σημειώσεις"
 
-#: judge/models/profile.py:205
+#: judge/models/profile.py:206
 msgid "Notes for administrators regarding this user."
 msgstr "Σημειώσεις για διαχειριστές σχετικά με αυτόν τον χρήστη."
 
-#: judge/models/profile.py:206
+#: judge/models/profile.py:207
 msgid "last data download time"
 msgstr "ώρα τελευταίας λήψης δεδομένων"
 
-#: judge/models/profile.py:207
+#: judge/models/profile.py:208
 msgid "display name override"
 msgstr "παράκαμψη εμφάνιση ονόματος"
 
-#: judge/models/profile.py:208
+#: judge/models/profile.py:209
 msgid "Name displayed in place of username."
 msgstr "Εμφάνιση ονόματος στη θέση του ονόματος χρήστη."
 
-#: judge/models/profile.py:323
+#: judge/models/profile.py:335
 msgid "Shows in-progress development stuff"
 msgstr "Δείχνει πράγματα ανάπτυξης σε εξέλιξη"
 
-#: judge/models/profile.py:324
+#: judge/models/profile.py:336
 msgid "Edit TOTP settings"
 msgstr "Επεξεργασία ρυθμίσεων TOTP"
 
-#: judge/models/profile.py:326
+#: judge/models/profile.py:338
 msgid "user profile"
 msgstr "προφίλ χρήστη"
 
-#: judge/models/profile.py:327
+#: judge/models/profile.py:339
 msgid "user profiles"
 msgstr "προφίλ χρηστών"
 
-#: judge/models/profile.py:333
+#: judge/models/profile.py:351
 msgid "device name"
 msgstr "όνομα συσκευής"
 
-#: judge/models/profile.py:334
+#: judge/models/profile.py:352
 msgid "credential ID"
 msgstr "διαπιστευτήρια ID"
 
-#: judge/models/profile.py:335
+#: judge/models/profile.py:353
 msgid "public key"
 msgstr "δημόσιο κλειδί"
 
-#: judge/models/profile.py:336
+#: judge/models/profile.py:354
 msgid "sign counter"
 msgstr "μετρητής υπογραφής"
 
-#: judge/models/profile.py:354
+#: judge/models/profile.py:372
 #, python-format
 msgid "WebAuthn credential: %(name)s"
 msgstr "WebAuthn διαπιστευτήριο: %(name)s"
 
-#: judge/models/profile.py:357
+#: judge/models/profile.py:375
 msgid "WebAuthn credential"
 msgstr "WebAuthn διαπιστευτήριο"
 
-#: judge/models/profile.py:358
+#: judge/models/profile.py:376
 msgid "WebAuthn credentials"
 msgstr "WebAuthn διαπιστευτήρια"
 
-#: judge/models/profile.py:365
+#: judge/models/profile.py:383
 msgid "request time"
 msgstr "ώρα αιτήματος"
 
-#: judge/models/profile.py:366
+#: judge/models/profile.py:384
 msgid "state"
 msgstr "κατάσταση"
 
-#: judge/models/profile.py:367 templates/organization/requests/tabs.html:4
+#: judge/models/profile.py:385 templates/organization/requests/tabs.html:4
 msgid "Pending"
 msgstr "Εκκρεμεί"
 
-#: judge/models/profile.py:368 templates/organization/requests/tabs.html:10
+#: judge/models/profile.py:386 templates/organization/requests/tabs.html:10
 msgid "Approved"
 msgstr "Εγκρίθηκε"
 
-#: judge/models/profile.py:369 templates/organization/requests/tabs.html:13
+#: judge/models/profile.py:387 templates/organization/requests/tabs.html:13
 msgid "Rejected"
 msgstr "Απορρίφθηκε"
 
-#: judge/models/profile.py:372
+#: judge/models/profile.py:390
 msgid "reason"
 msgstr "αιτία"
 
-#: judge/models/profile.py:381
+#: judge/models/profile.py:399
 msgid "organization join request"
 msgstr "αίτηση συμμετοχής οργανισμού"
 
-#: judge/models/profile.py:382
+#: judge/models/profile.py:400
 msgid "organization join requests"
 msgstr "αιτήσεις συμμετοχής οργανισμού"
 
@@ -2479,11 +2494,11 @@ msgstr "Αν αυτός ο κριτής θα πρέπει να αποκλεισ�
 
 #: judge/models/runtime.py:132
 msgid "disable judge"
-msgstr ""
+msgstr "Απενεργοποίηση κριτή"
 
 #: judge/models/runtime.py:133
 msgid "Whether this judge should be removed from judging queue."
-msgstr ""
+msgstr "Εάν αυτός ο κριτής πρέπει να αφαιρεθεί από την ουρά των κριτών."
 
 #: judge/models/runtime.py:134
 msgid "judge online status"
@@ -2557,7 +2572,7 @@ msgstr "Εσωτερικό Σφάλμα"
 
 #: judge/models/submission.py:31 judge/models/submission.py:52
 msgid "Short Circuited"
-msgstr ""
+msgstr "Βραχυκύκλωμα"
 
 #: judge/models/submission.py:32 judge/models/submission.py:45
 #: judge/models/submission.py:64
@@ -2588,15 +2603,15 @@ msgstr "Εσωτερικό Σφάλμα (εκτίμηση σφάλματος δ�
 msgid "submission time"
 msgstr "ώρα υποβολής"
 
-#: judge/models/submission.py:70 judge/models/submission.py:255
+#: judge/models/submission.py:70 judge/models/submission.py:282
 msgid "execution time"
 msgstr "χρόνος εκτέλεσης"
 
-#: judge/models/submission.py:71 judge/models/submission.py:256
+#: judge/models/submission.py:71 judge/models/submission.py:283
 msgid "memory usage"
 msgstr "χρήση μνήμης"
 
-#: judge/models/submission.py:72 judge/models/submission.py:257
+#: judge/models/submission.py:72 judge/models/submission.py:284
 msgid "points granted"
 msgstr "χορηγηθέντες πόντοι"
 
@@ -2604,141 +2619,141 @@ msgstr "χορηγηθέντες πόντοι"
 msgid "submission language"
 msgstr "γλώσσα υποβολής"
 
-#: judge/models/submission.py:74
+#: judge/models/submission.py:75
 msgid "status"
 msgstr "κατάσταση"
 
-#: judge/models/submission.py:75
+#: judge/models/submission.py:76
 msgid "result"
 msgstr "αποτέλεσμα"
 
-#: judge/models/submission.py:77
+#: judge/models/submission.py:78
 msgid "compile errors"
 msgstr "σφάλματα μεταγλώττισης"
 
-#: judge/models/submission.py:79
+#: judge/models/submission.py:80
 msgid "batched cases"
 msgstr "δεσμίδες περιπτώσεων"
 
-#: judge/models/submission.py:80
+#: judge/models/submission.py:81
 msgid "test case points"
 msgstr "πόντοι δοκιμαστικής περίπτωσης"
 
-#: judge/models/submission.py:81
+#: judge/models/submission.py:82
 msgid "test case total points"
 msgstr "συνολικοί πόντοι δοκιμαστικής περίπτωσης"
 
-#: judge/models/submission.py:82
+#: judge/models/submission.py:83
 msgid "judged on"
 msgstr "κρίθηκε στις"
 
-#: judge/models/submission.py:84
+#: judge/models/submission.py:85
 msgid "submission judge time"
 msgstr "ώρα κρίσης υποβολής"
 
-#: judge/models/submission.py:85
+#: judge/models/submission.py:86
 msgid "last rejudge date by admin"
 msgstr "τελευταία ημερομηνία κρίσης εκ νεόυ από admin"
 
-#: judge/models/submission.py:86
+#: judge/models/submission.py:87
 msgid "was ran on pretests only"
 msgstr "έτρεξε μόνο σε προδοκιμές"
 
-#: judge/models/submission.py:89
+#: judge/models/submission.py:90
 msgid "submission lock"
 msgstr "κλείδωμα υποβολής"
 
-#: judge/models/submission.py:197
+#: judge/models/submission.py:198
 #, python-format
 msgid "Submission %(id)d of %(problem)s by %(user)s"
-msgstr ""
+msgstr "Υποβολή %(id)d από %(problem)s από %(user)s"
 
-#: judge/models/submission.py:222
+#: judge/models/submission.py:223
 msgid "Abort any submission"
 msgstr "Ακύρωση οποιασδήποτε υποβολής"
 
-#: judge/models/submission.py:223
+#: judge/models/submission.py:224
 msgid "Rejudge the submission"
 msgstr "Κρίση εκ νέου της υποβολής"
 
-#: judge/models/submission.py:224
+#: judge/models/submission.py:225
 msgid "Rejudge a lot of submissions"
 msgstr "Κρίση εκ νέου πολλών υποβολών"
 
-#: judge/models/submission.py:225
+#: judge/models/submission.py:226
 msgid "Submit without limit"
 msgstr "Υποβολή χωρίς όριο"
 
-#: judge/models/submission.py:226
+#: judge/models/submission.py:227
 msgid "View all submission"
 msgstr "Δείτε όλες τις υποβολές"
 
-#: judge/models/submission.py:227
+#: judge/models/submission.py:228
 msgid "Resubmit others' submission"
 msgstr "Επανυποβολή υποβολής τρίτων"
 
-#: judge/models/submission.py:228
+#: judge/models/submission.py:229
 msgid "Change lock status of submission"
 msgstr "Αλλαγή κατάστασης κλειδώματος υποβολής"
 
-#: judge/models/submission.py:231
+#: judge/models/submission.py:232
 msgid "submissions"
 msgstr "υποβολές"
 
-#: judge/models/submission.py:235 judge/models/submission.py:251
+#: judge/models/submission.py:262 judge/models/submission.py:278
 msgid "associated submission"
 msgstr "συσχετιζόμενη υποβολή"
 
-#: judge/models/submission.py:237
+#: judge/models/submission.py:264
 msgid "source code"
 msgstr "πηγαίος κώδικας"
 
-#: judge/models/submission.py:240
+#: judge/models/submission.py:267
 #, python-format
 msgid "Source of %(submission)s"
-msgstr ""
+msgstr "Πηγή του %(submission)s"
 
-#: judge/models/submission.py:243
+#: judge/models/submission.py:270
 msgid "submission source"
 msgstr "πηγή υποβολής"
 
-#: judge/models/submission.py:244
+#: judge/models/submission.py:271
 msgid "submission sources"
 msgstr "πηγές υποβολής"
 
-#: judge/models/submission.py:253
+#: judge/models/submission.py:280
 msgid "test case ID"
 msgstr "ID δοκιμαστικής περίπτωσης"
 
-#: judge/models/submission.py:254
+#: judge/models/submission.py:281
 msgid "status flag"
 msgstr "σημαία κατάστασης"
 
-#: judge/models/submission.py:258
+#: judge/models/submission.py:285
 msgid "points possible"
 msgstr "δυνατοί πόντοι"
 
-#: judge/models/submission.py:259
+#: judge/models/submission.py:286
 msgid "batch number"
 msgstr "αριθμός δεσμίδας"
 
-#: judge/models/submission.py:260
+#: judge/models/submission.py:287
 msgid "judging feedback"
 msgstr "σχόλια κριτή"
 
-#: judge/models/submission.py:261
+#: judge/models/submission.py:288
 msgid "extended judging feedback"
 msgstr "εκτενή σχόλια κριτή"
 
-#: judge/models/submission.py:262
+#: judge/models/submission.py:289
 msgid "program output"
 msgstr "έξοδος προγράμματος"
 
-#: judge/models/submission.py:276
+#: judge/models/submission.py:303
 msgid "submission test case"
 msgstr "δοκιμαστική περίπτωση υποβολής"
 
-#: judge/models/submission.py:277
+#: judge/models/submission.py:304
 msgid "submission test cases"
 msgstr "δοκιμαστικές περιπτώσεις υποβολής"
 
@@ -2802,16 +2817,6 @@ msgstr "μήνυμα αιτήματος"
 msgid "ticket messages"
 msgstr "μηνύματα αιτήματος"
 
-#: judge/pdf_problems.py:148 judge/pdf_problems.py:199
-#: judge/pdf_problems.py:266
-msgid "Page [page] of [topage]"
-msgstr "Σελίδα [page] από [topage]"
-
-#: judge/pdf_problems.py:288
-#, python-format
-msgid "Page %s of %s"
-msgstr "Σελίδα %s από %s"
-
 #: judge/ratings.py:194
 msgid "Newbie"
 msgstr "Πρωτάρης"
@@ -2867,6 +2872,11 @@ msgstr "Προετοιμασία των δεδομένων υποβολής"
 #: judge/tasks/user.py:95
 msgid "Preparing your comment data"
 msgstr "Προετοιμασία των δεδομένων σχολίου"
+
+#: judge/utils/pdfoid.py:22
+#, python-brace-format
+msgid "Page {page_number} of {total_pages}"
+msgstr "Σελίδα {page_number} από {total_pages}"
 
 #: judge/utils/problem_data.py:63
 msgid "Empty batches not allowed."
@@ -2956,45 +2966,45 @@ msgctxt "hours and minutes"
 msgid "%h:%m"
 msgstr "%h:%m"
 
-#: judge/views/blog.py:36
+#: judge/views/blog.py:37
 #, python-format
 msgid "Page %d of Posts"
 msgstr "Σελίδα %d Αναρτήσεων"
 
-#: judge/views/comment.py:27
+#: judge/views/comment.py:28
 msgid "Messing around, are we?"
 msgstr "Σαχλαμαρίζουμε, ε;"
 
-#: judge/views/comment.py:36
+#: judge/views/comment.py:37
 msgid "You must solve at least one problem before you can vote."
 msgstr "Πρέπει να λύσετε τουλάχιστον ένα πρόβλημα πριν μπορέσετε να ψηφίσετε."
 
-#: judge/views/comment.py:50
+#: judge/views/comment.py:51
 msgid "Comment not found."
 msgstr "Το σχόλιο δεν βρέθηκε."
 
-#: judge/views/comment.py:53
+#: judge/views/comment.py:54
 msgid "You cannot vote on your own comments."
 msgstr "Δεν μπορείτε να ψηφίσετε για τα δικά σας σχόλια."
 
-#: judge/views/comment.py:71
+#: judge/views/comment.py:72
 msgid "You already voted."
 msgstr "Έχετε ήδη ψηφίσει."
 
-#: judge/views/comment.py:134 judge/views/organization.py:359
+#: judge/views/comment.py:135 judge/views/organization.py:386
 msgid "Edited from site"
 msgstr "Επεξεργάστηκε από την ιστοσελίδα"
 
-#: judge/views/comment.py:155
+#: judge/views/comment.py:160
 msgid "Editing comment"
 msgstr "Επεξεργασία σχολίου"
 
-#: judge/views/contests.py:58 judge/views/contests.py:231
-#: judge/views/contests.py:234 judge/views/contests.py:439
+#: judge/views/contests.py:58 judge/views/contests.py:248
+#: judge/views/contests.py:251 judge/views/contests.py:456
 msgid "No such contest"
 msgstr "Δεν υπάρχει τέτοιος διαγωνισμός"
 
-#: judge/views/contests.py:59 judge/views/contests.py:232
+#: judge/views/contests.py:59 judge/views/contests.py:249
 #, python-format
 msgid "Could not find a contest with the key \"%s\"."
 msgstr "Αδυναμία εύρεσης διαγωνισμού με κλειδί \"%s\"."
@@ -3003,111 +3013,111 @@ msgstr "Αδυναμία εύρεσης διαγωνισμού με κλειδί
 msgid "Contests"
 msgstr "Διαγωνισμοί"
 
-#: judge/views/contests.py:235
+#: judge/views/contests.py:252
 msgid "Could not find such contest."
 msgstr "Αδυναμία εύρεσης τέτοιου διαγωνισμού."
 
-#: judge/views/contests.py:238
+#: judge/views/contests.py:255
 #, python-format
 msgid "Access to contest \"%s\" denied"
 msgstr "Πρόσβαση στο διαγωνισμό \"%s\" απορρίφθηκε"
 
-#: judge/views/contests.py:283
+#: judge/views/contests.py:300
 msgid "Clone Contest"
 msgstr "Κλωνοποίηση Διαγωνισμού"
 
-#: judge/views/contests.py:317
+#: judge/views/contests.py:334
 #, python-format
 msgid "Cloned contest from %s"
 msgstr "Κλωνοποιημένος διαγωνισμός από %s"
 
-#: judge/views/contests.py:353
+#: judge/views/contests.py:370
 msgid "Contest not ongoing"
 msgstr "Ο διαγωνισμός δεν βρίσκεται σε εξέλιξη"
 
-#: judge/views/contests.py:354
+#: judge/views/contests.py:371
 #, python-format
 msgid "\"%s\" is not currently ongoing."
 msgstr "\"%s\" δεν βρίσκεται σε εξέλιξη."
 
-#: judge/views/contests.py:359
+#: judge/views/contests.py:376
 msgid "Banned from joining"
 msgstr "Αποκλεισμένος από συμμετοχή"
 
-#: judge/views/contests.py:360
+#: judge/views/contests.py:377
 msgid "You have been declared persona non grata for this contest. You are permanently barred from joining this contest."
 msgstr "Έχετε κηρυχθεί persona non grata για αυτόν τον διαγωνισμό. Είστε μόνιμα αποκλεισμένοι από το να συμμετάσχετε σε αυτόν τον διαγωνισμό."
 
-#: judge/views/contests.py:390
+#: judge/views/contests.py:407
 msgid "Cannot enter"
 msgstr "Αδυναμία εισόδου"
 
-#: judge/views/contests.py:391
+#: judge/views/contests.py:408
 msgid "You are not able to join this contest."
 msgstr "Δεν έχετε τη δυνατότητα να συμμετάσχετε σε αυτόν τον διαγωνισμό."
 
-#: judge/views/contests.py:429
+#: judge/views/contests.py:446
 #, python-format
 msgid "Enter access code for \"%s\""
 msgstr "Εισάγετε κωδικό πρόσβασης για το \"%s\""
 
-#: judge/views/contests.py:440
+#: judge/views/contests.py:457
 #, python-format
 msgid "You are not in contest \"%s\"."
 msgstr "Δεν είστε στο διαγωνισμό \"%s\"."
 
-#: judge/views/contests.py:498
+#: judge/views/contests.py:515
 #, python-format
 msgid "Contests in %(month)s"
 msgstr "Διαγωνισμοί %(month)s"
 
-#: judge/views/contests.py:498
+#: judge/views/contests.py:515
 msgid "F Y"
 msgstr "F Y"
 
-#: judge/views/contests.py:556
+#: judge/views/contests.py:573
 #, python-format
 msgid "%s Statistics"
 msgstr "%s Στατιστικά"
 
-#: judge/views/contests.py:730
+#: judge/views/contests.py:747
 #, python-format
 msgid "%s Rankings"
 msgstr "%s Κατάταξη"
 
-#: judge/views/contests.py:738
+#: judge/views/contests.py:755
 msgid "???"
 msgstr "???"
 
-#: judge/views/contests.py:754
+#: judge/views/contests.py:771
 #, python-format
 msgid "Your participation in %(contest)s"
 msgstr "Η συμμετοχή σας στο %(contest)s"
 
-#: judge/views/contests.py:755
+#: judge/views/contests.py:772
 #, python-format
 msgid "%(user)s's participation in %(contest)s"
 msgstr "Συμμετοχή του/της %(user)s στο %(contest)s"
 
-#: judge/views/contests.py:764
+#: judge/views/contests.py:781
 msgid "Live"
 msgstr "Ζωντανά"
 
-#: judge/views/contests.py:776 templates/contest/contest-tabs.html:13
+#: judge/views/contests.py:793 templates/contest/contest-tabs.html:13
 msgid "Participation"
 msgstr "Συμμετοχή"
 
-#: judge/views/contests.py:820
+#: judge/views/contests.py:837
 #, python-format
 msgid "%s MOSS Results"
 msgstr "%s MOSS Αποτελέσματα"
 
-#: judge/views/contests.py:847
+#: judge/views/contests.py:864
 #, python-format
 msgid "Running MOSS for %s..."
 msgstr "Εκτέλεση MOSS για %s..."
 
-#: judge/views/contests.py:870
+#: judge/views/contests.py:887
 #, python-format
 msgid "Contest tag: %s"
 msgstr "Ετικέτα διαγωνισμού: %s"
@@ -3136,217 +3146,217 @@ msgstr "αλλοιωμένη σελίδα %s"
 msgid "Runtimes"
 msgstr "Χρόνοι εκτέλεσης"
 
-#: judge/views/organization.py:52 judge/views/organization.py:55
+#: judge/views/organization.py:53 judge/views/organization.py:56
 msgid "No such organization"
 msgstr "Δεν υπάρχει τέτοιος οργανισμός"
 
-#: judge/views/organization.py:53
+#: judge/views/organization.py:54
 #, python-format
 msgid "Could not find an organization with the key \"%s\"."
 msgstr "Αδυναμία εύρεσης οργανισμού με κλειδί \"%s\"."
 
-#: judge/views/organization.py:56
+#: judge/views/organization.py:57
 msgid "Could not find such organization."
 msgstr "Αδυναμία εύρεσης τέτοιου οργανισμού."
 
-#: judge/views/organization.py:81 judge/views/register.py:33
+#: judge/views/organization.py:98 judge/views/register.py:33
 #: templates/user/user-list-tabs.html:5
 msgid "Organizations"
 msgstr "Οργανισμοί"
 
-#: judge/views/organization.py:118
+#: judge/views/organization.py:141
 #, python-format
 msgid "%s Members"
 msgstr "%s Μέλη"
 
-#: judge/views/organization.py:142 judge/views/organization.py:145
-#: judge/views/organization.py:150
+#: judge/views/organization.py:167 judge/views/organization.py:170
+#: judge/views/organization.py:175
 msgid "Joining organization"
 msgstr "Εγγραφή στον οργανισμό"
 
-#: judge/views/organization.py:142
+#: judge/views/organization.py:167
 msgid "You are already in the organization."
 msgstr "Είστε ήδη μέλος αυτού του οργανισμού."
 
-#: judge/views/organization.py:145
+#: judge/views/organization.py:170
 msgid "This organization is not open."
 msgstr "Αυτός ο οργανισμός δεν είναι ανοιχτός."
 
-#: judge/views/organization.py:164
+#: judge/views/organization.py:189
 msgid "Leaving organization"
 msgstr "Αποχώρηση από τον οργανισμό"
 
-#: judge/views/organization.py:164
+#: judge/views/organization.py:189
 #, python-format
 msgid "You are not in \"%s\"."
 msgstr "Δεν είστε στο \"%s\"."
 
-#: judge/views/organization.py:191 judge/views/organization.py:451
+#: judge/views/organization.py:216 judge/views/organization.py:478
 #, python-format
 msgid "Can't request to join %s"
 msgstr "Δεν μπορείτε να αιτηθείτε να εγγραφείται στο %s"
 
-#: judge/views/organization.py:192 judge/views/organization.py:452
+#: judge/views/organization.py:217 judge/views/organization.py:479
 #, python-format
 msgid "You already have a pending request to join %s."
 msgstr "Έχετε ήδη ένα αίτημα σε εκκρεμότητα για εγγραφή στο %s."
 
-#: judge/views/organization.py:205
+#: judge/views/organization.py:230
 #, python-format
 msgid "Request to join %s"
 msgstr "Αίτηση εγγραφής στο %s"
 
-#: judge/views/organization.py:224
+#: judge/views/organization.py:249
 msgid "Join request detail"
 msgstr "Λεπτομέρειες αίτησης εγγραφής"
 
-#: judge/views/organization.py:263
+#: judge/views/organization.py:290
 #, python-format
 msgid "Managing join requests for %s"
 msgstr "Διαχείριση αιτήσεων εγγραφής για %s"
 
-#: judge/views/organization.py:295
+#: judge/views/organization.py:322
 #, python-format
 msgid "Your organization can only receive %d more member."
 msgid_plural "Your organization can only receive %d more members."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Ο οργανισμός σας μπορεί να λάβει μόνο %d επιπλέον μέλη."
+msgstr[1] "Ο οργανισμός σας μπορεί να λάβει μόνο %d περισσότερα μέλη."
 
-#: judge/views/organization.py:297
+#: judge/views/organization.py:324
 #, python-format
 msgid "You cannot approve %d user."
 msgid_plural "You cannot approve %d users."
 msgstr[0] "Δεν μπορείτε να εγκρίνετε %d χρήστη."
 msgstr[1] "Δεν μπορείτε να εγκρίνετε %d χρήστες."
 
-#: judge/views/organization.py:312
+#: judge/views/organization.py:339
 #, python-format
 msgid "Approved %d user."
 msgid_plural "Approved %d users."
 msgstr[0] "Εγκρίθηκε ο χρήστης %d."
 msgstr[1] "Εγκρίθηκαν οι χρήστες %d."
 
-#: judge/views/organization.py:313
+#: judge/views/organization.py:340
 #, python-format
 msgid "Rejected %d user."
 msgid_plural "Rejected %d users."
 msgstr[0] "Απορρίφθηκε ο χρήστης %d."
 msgstr[1] "Απορρίφθηκαν οι χρήστες %d."
 
-#: judge/views/organization.py:343
+#: judge/views/organization.py:370
 #, python-format
 msgid "Editing %s"
 msgstr "Επεξεργασία %s"
 
-#: judge/views/organization.py:367 judge/views/organization.py:375
+#: judge/views/organization.py:394 judge/views/organization.py:402
 msgid "Can't edit organization"
 msgstr "Αδυναμία επεξεργασίας οργανισμού"
 
-#: judge/views/organization.py:368
+#: judge/views/organization.py:395
 msgid "You are not allowed to edit this organization."
 msgstr "Δεν έχετε δικαιώμα να επεξεργαστείτε αυτόν τον οργανισμό."
 
-#: judge/views/organization.py:376
+#: judge/views/organization.py:403
 msgid "You are not allowed to kick people from this organization."
 msgstr "Δεν έχετε δικαιώμα να αποβάλλετε κόσμο από αυτόν τον οργανισμό."
 
-#: judge/views/organization.py:381 judge/views/organization.py:385
+#: judge/views/organization.py:408 judge/views/organization.py:412
 msgid "Can't kick user"
 msgstr "Αδυναμία αποβολής χρήστη"
 
-#: judge/views/organization.py:382
+#: judge/views/organization.py:409
 msgid "The user you are trying to kick does not exist!"
 msgstr "Ο χρήστης που προσπαθείτε να αποβάλλετε δεν υπάρχει!"
 
-#: judge/views/organization.py:386
+#: judge/views/organization.py:413
 #, python-format
 msgid "The user you are trying to kick is not in organization: %s"
 msgstr "Ο χρήστης που προσπαθείτε να αποβάλλετε δε βρίσκεται στον οργανισμό: %s"
 
-#: judge/views/organization.py:423
+#: judge/views/organization.py:450
 #, python-brace-format
 msgid "Class {name} in {organization}"
 msgstr "Κατηγορία {name} στο {organization}"
 
-#: judge/views/organization.py:429
+#: judge/views/organization.py:456
 #, python-brace-format
 msgid "Class {name} - {organization}"
 msgstr "Κατηγορία {name} - {organization}"
 
-#: judge/views/organization.py:457
+#: judge/views/organization.py:484
 #, python-brace-format
 msgid "Request to join {name} in {organization}"
 msgstr "Αίτηση εγγραφής του {name} στο {organization}"
 
-#: judge/views/problem.py:72
+#: judge/views/problem.py:71
 msgid "No such problem"
 msgstr "Δεν υπάρχει τέτοιο πρόβλημα"
 
-#: judge/views/problem.py:73
+#: judge/views/problem.py:72
 #, python-format
 msgid "Could not find a problem with the code \"%s\"."
 msgstr "Αδυναμία εύρεσης προβλήματος με κωδικό \"%s\"."
 
-#: judge/views/problem.py:115 judge/views/problem.py:118
+#: judge/views/problem.py:114 judge/views/problem.py:117
 #, python-brace-format
 msgid "Editorial for {0}"
 msgstr "Εξήγηση για {0}"
 
-#: judge/views/problem.py:138
+#: judge/views/problem.py:137
 msgid "No such editorial"
 msgstr "Δεν υπάρχει τέτοια εξήγηση"
 
-#: judge/views/problem.py:139
+#: judge/views/problem.py:138
 #, python-format
 msgid "Could not find an editorial with the code \"%s\"."
 msgstr "Αδυναμία εύρεσης εξήγησης με κωδικό \"%s\"."
 
-#: judge/views/problem.py:240
+#: judge/views/problem.py:239
 msgid "Not allowed to vote on this problem."
-msgstr ""
+msgstr "Δεν επιτρέπεται να ψηφίσετε γι' αυτό το πρόβλημα."
 
-#: judge/views/problem.py:263
+#: judge/views/problem.py:262
 msgid "Not allowed to delete votes on this problem."
-msgstr ""
+msgstr "Δεν επιτρέπεται να διαγράψετε τις ψήφους γι' αυτό το πρόβλημα."
 
-#: judge/views/problem.py:266
+#: judge/views/problem.py:265
 msgid "success"
 msgstr "επιτυχία"
 
-#: judge/views/problem.py:654 judge/views/problem.py:662
+#: judge/views/problem.py:647 judge/views/problem.py:655
 #, python-format
 msgid "Submit to %s"
 msgstr "Υποβολή στο %s"
 
-#: judge/views/problem.py:707
+#: judge/views/problem.py:700
 msgid "You submitted too many submissions."
-msgstr ""
+msgstr "Κάνατε πάρα πολλές υποβολές."
 
-#: judge/views/problem.py:711
+#: judge/views/problem.py:704
 msgid "Banned from submitting"
 msgstr "Αποκλεισμένος από υποβολή"
 
-#: judge/views/problem.py:712
+#: judge/views/problem.py:705
 msgid "You have been declared persona non grata for this problem. You are permanently barred from submitting to this problem."
 msgstr "Έχετε κηρυχθεί persona non grata για αυτό το πρόβλημα. Είστε μόνιμα αποκλεισμένοι από το να υποβάλλετε σε αυτό το πρόβλημα."
 
-#: judge/views/problem.py:716
+#: judge/views/problem.py:709
 msgid "Too many submissions"
 msgstr "Πάρα πολλές υποβολές"
 
-#: judge/views/problem.py:717
+#: judge/views/problem.py:710
 msgid "You have exceeded the submission limit for this problem."
 msgstr "Έχετε υπερβεί το όριο υποβολής για αυτό το πρόβλημα."
 
-#: judge/views/problem.py:767
+#: judge/views/problem.py:760
 msgid "Do you want me to ban you?"
-msgstr ""
+msgstr "Θέλετε να σας απαγορεύσω;"
 
-#: judge/views/problem.py:785
+#: judge/views/problem.py:778
 msgid "Clone Problem"
 msgstr "Κλωνοποίηση Προβλήματος"
 
-#: judge/views/problem.py:812
+#: judge/views/problem.py:805
 #, python-format
 msgid "Cloned problem from %s"
 msgstr "Κλωνοποιημένο πρόβλημα από %s"
@@ -3405,17 +3415,17 @@ msgid_plural "Successfully scheduled %d submissions for rejudging."
 msgstr[0] "Επιτυχής προγραμματισμός υποβολής %d για κρίση εκ νέου."
 msgstr[1] "Επιτυχής προγραμματισμός υποβολών %d για κρίση εκ νέου."
 
-#: judge/views/ranked_submission.py:68 judge/views/ranked_submission.py:71
+#: judge/views/ranked_submission.py:67 judge/views/ranked_submission.py:70
 #, python-format
 msgid "Best solutions for %s"
 msgstr "Καλύτερες λύσεις για %s"
 
-#: judge/views/ranked_submission.py:85 judge/views/ranked_submission.py:94
+#: judge/views/ranked_submission.py:84 judge/views/ranked_submission.py:93
 #, python-format
 msgid "Best solutions for %(problem)s in %(contest)s"
 msgstr "Καλύτερες λύσεις για %(problem)s στο %(contest)s"
 
-#: judge/views/ranked_submission.py:88 judge/views/ranked_submission.py:100
+#: judge/views/ranked_submission.py:87 judge/views/ranked_submission.py:99
 #, python-format
 msgid "Best solutions for problem %(number)s in %(contest)s"
 msgstr "Καλύτερες λύσεις για το πρόβλημα %(number)s στο %(contest)s"
@@ -3445,93 +3455,93 @@ msgstr "Ο πάροχος email σας δεν επιτρέπεται λόγω ι
 msgid "Register"
 msgstr "Εγγραφή"
 
-#: judge/views/register.py:103
+#: judge/views/register.py:101
 msgid "Activation Key Invalid"
 msgstr "Μη Έγκυρο Κλειδί Ενεργοποίησης"
 
-#: judge/views/register.py:114
+#: judge/views/register.py:112
 msgid "Authentication failure"
 msgstr "Αποτυχία ελέγχου ταυτότητας"
 
 #: judge/views/stats.py:23
 msgid "Other"
-msgstr ""
+msgstr "Άλλο"
 
 #: judge/views/stats.py:62
 msgid "Language statistics"
 msgstr "Στατιστικά γλωσσών"
 
-#: judge/views/status.py:23 templates/submission/list.html:308
+#: judge/views/status.py:23 templates/submission/list.html:310
 msgid "Status"
 msgstr "Κατάσταση"
 
 #: judge/views/status.py:108
-msgid "Version matrix"
-msgstr "Πίνακας έκδοσης"
+msgid "Version"
+msgstr "Έκδοση"
 
-#: judge/views/submission.py:70
+#: judge/views/submission.py:71
 #, python-format
 msgid "Permission denied. Solve %(problem)s in order to view it."
 msgstr "Απαγορεύεται η πρόσβαση. Λύστε %(problem)s για να το δείτε."
 
-#: judge/views/submission.py:75 judge/views/submission.py:77
+#: judge/views/submission.py:76 judge/views/submission.py:78
 msgid "Can't access submission"
 msgstr "Αδυναμία πρόσβασης στην υποβολή"
 
-#: judge/views/submission.py:77
+#: judge/views/submission.py:78
 msgid "Permission denied."
 msgstr "Απαγορεύεται η πρόσβαση."
 
-#: judge/views/submission.py:81 judge/views/submission.py:88
+#: judge/views/submission.py:82 judge/views/submission.py:89
 #, python-format
 msgid "Submission of %(problem)s by %(user)s"
 msgstr "Υποβολή για %(problem)s από %(user)s"
 
-#: judge/views/submission.py:232 judge/views/submission.py:233
+#: judge/views/submission.py:233 judge/views/submission.py:234
 #: templates/problem/problem.html:132
 msgid "All submissions"
 msgstr "Όλες οι υποβολές"
 
-#: judge/views/submission.py:392 judge/views/submission.py:397
+#: judge/views/submission.py:400 judge/views/submission.py:405
 msgid "All my submissions"
 msgstr "Όλες οι υποβολές μου"
 
-#: judge/views/submission.py:393 judge/views/submission.py:398
+#: judge/views/submission.py:401 judge/views/submission.py:406
 #, python-format
 msgid "All submissions by %s"
 msgstr "Όλες οι υποβολές από %s"
 
-#: judge/views/submission.py:426 judge/views/submission.py:429
+#: judge/views/submission.py:434 judge/views/submission.py:437
 #, python-format
 msgid "All submissions for %s"
 msgstr "Όλες οι υποβολές για %s"
 
-#: judge/views/submission.py:490 judge/views/submission.py:497
+#: judge/views/submission.py:498 judge/views/submission.py:505
 #, python-format
 msgid "My submissions for %(problem)s"
 msgstr "Οι υποβολές μου για %(problem)s"
 
-#: judge/views/submission.py:491 judge/views/submission.py:501
+#: judge/views/submission.py:499 judge/views/submission.py:509
 #, python-format
 msgid "%(user)s's submissions for %(problem)s"
 msgstr "Υποβολές του/της %(user)s για %(problem)s"
 
-#: judge/views/submission.py:601 judge/views/submission.py:616
+#: judge/views/submission.py:609 judge/views/submission.py:624
 #, python-format
 msgid "My submissions in %(contest)s"
 msgstr "Οι υποβολές μου στο %(contest)s"
 
-#: judge/views/submission.py:602 judge/views/submission.py:620
+#: judge/views/submission.py:610 judge/views/submission.py:628
 #, python-format
 msgid "%(user)s's submissions in %(contest)s"
 msgstr "Υποβολές του/της %(user)s στο %(contest)s"
 
-#: judge/views/submission.py:638 judge/views/submission.py:656
+#: judge/views/submission.py:646 judge/views/submission.py:664
 #, python-brace-format
 msgid "{user}'s submissions for {problem} in {contest}"
 msgstr "Υποβολές του/της {user} για {problem} στο {contest}"
 
-#: judge/views/submission.py:643 judge/views/submission.py:664
+#: judge/views/submission.py:651 judge/views/submission.py:672
 #, python-brace-format
 msgid "{user}'s submissions for problem {number} in {contest}"
 msgstr "Υποβολές του/της {user} για το πρόβλημα {number} στο {contest}"
@@ -3586,101 +3596,105 @@ msgstr "κανένας"
 msgid "New Ticket Message For: %s"
 msgstr "Νέο Μήνυμα Αιτήματος Για: %s"
 
-#: judge/views/two_factor.py:49
+#: judge/views/two_factor.py:50
 msgid "Enable Two-factor Authentication"
 msgstr "Ενεργοποίηση Ταυτοποίησης Δύο Παραγόντων"
 
-#: judge/views/two_factor.py:109
+#: judge/views/two_factor.py:110
 msgid "Refresh Two-factor Authentication"
 msgstr "Ανανέωση Ταυτοποίησης Δύο Παραγόντων"
 
-#: judge/views/two_factor.py:117
+#: judge/views/two_factor.py:118
 msgid "Disable Two-factor Authentication"
 msgstr "Απενεργοποίηση Ταυτοποίησης Δύο Παραγόντων"
 
-#: judge/views/two_factor.py:166
+#: judge/views/two_factor.py:167
 msgid "Invalid WebAuthn response"
 msgstr "Μη έγκυρη WebAuthn απάντηση"
 
-#: judge/views/two_factor.py:169
+#: judge/views/two_factor.py:170
 msgid "Invalid name"
 msgstr "Μη έγκυρο όνομα"
 
-#: judge/views/two_factor.py:222
+#: judge/views/two_factor.py:223
 msgid "Staff may not disable 2FA"
 msgstr "Το προσωπικό δεν μπορεί να απενεργοποιήσει το 2FA"
 
-#: judge/views/two_factor.py:230
+#: judge/views/two_factor.py:231
 msgid "Perform Two-factor Authentication"
 msgstr "Εκτέλεση Ταυτοποίησης Δύο Παραγόντων"
 
-#: judge/views/user.py:77
+#: judge/views/user.py:78
 msgid "No such user"
 msgstr "Δεν υπάρχει τέτοιος χρήστης"
 
-#: judge/views/user.py:77
+#: judge/views/user.py:78
 #, python-format
 msgid "No user handle \"%s\"."
 msgstr "Δεν υπάρχει τέτοιο αναγνωριστικό χρήστη \"%s\"."
 
-#: judge/views/user.py:81
+#: judge/views/user.py:82
 msgid "My account"
 msgstr "Ο λογαριασμός μου"
 
-#: judge/views/user.py:82
+#: judge/views/user.py:83
 #, python-format
 msgid "User %s"
 msgstr "Χρήστης %s"
 
-#: judge/views/user.py:129
+#: judge/views/user.py:130
 msgid "Login"
 msgstr "Σύνδεση"
 
-#: judge/views/user.py:170
+#: judge/views/user.py:171
 msgid "M j, Y, G:i"
 msgstr "j M Y, G:i"
 
-#: judge/views/user.py:294
+#: judge/views/user.py:295
 msgid "Preparing your data..."
 msgstr "Προετοιμασία των δεδομένων σας..."
 
-#: judge/views/user.py:298 templates/user/edit-profile.html:345
+#: judge/views/user.py:299 templates/user/edit-profile.html:344
 msgid "Download your data"
 msgstr "Λήψη των δεδομένων σας"
 
-#: judge/views/user.py:354
+#: judge/views/user.py:348
+msgid "Can't edit profile"
+msgstr "Αδυναμία επεξεργασίας προφίλ."
+
+#: judge/views/user.py:355
 msgid "Updated on site"
 msgstr "Ενημερώθηκε στην ιστοσελίδα"
 
 #: judge/views/user.py:387 templates/admin/auth/user/change_form.html:14
-#: templates/admin/auth/user/change_form.html:17 templates/base.html:213
+#: templates/admin/auth/user/change_form.html:17 templates/base.html:223
 #: templates/user/user-tabs.html:16
 msgid "Edit profile"
 msgstr "Επεξεργασία προφίλ"
 
-#: judge/views/user.py:402
+#: judge/views/user.py:401
 msgid "Generated API token for user"
 msgstr "Παρήχθη διακριτικό API για το χρήστη"
 
-#: judge/views/user.py:414
+#: judge/views/user.py:413
 msgid "Removed API token for user"
 msgstr "Αφαιρέθηκε διακριτικό API για το χρήστη"
 
-#: judge/views/user.py:424
+#: judge/views/user.py:423
 msgid "Generated scratch codes for user"
 msgstr "Παρήχθη κωδικός scratch για το χρήστη"
 
-#: judge/views/user.py:430 templates/user/user-list-tabs.html:4
+#: judge/views/user.py:429 templates/user/user-list-tabs.html:4
 msgid "Leaderboard"
 msgstr "Πίνακας Κατάταξης"
 
-#: judge/views/user.py:491
+#: judge/views/user.py:490
 msgid "You have been successfully logged out."
 msgstr "Αποσυνδεθήκατε επιτυχώς."
 
-#: judge/views/user.py:508
+#: judge/views/user.py:507
 msgid "You have sent too many password reset requests. Please try again later."
-msgstr ""
+msgstr "Έχετε στείλει πάρα πολλά αιτήματα επαναφοράς κωδικού πρόσβασης. Παρακαλώ προσπαθήστε ξανά αργότερα."
 
 #: templates/admin/judge/contest/change_form.html:9
 msgid "Are you sure you want to rejudge ALL the submissions?"
@@ -3707,13 +3721,13 @@ msgstr "Τερματισμός"
 
 #: templates/admin/judge/judge/change_form.html:27
 #: templates/admin/judge/judge/change_form.html:30
-#: templates/user/edit-profile.html:355 templates/user/edit-profile.html:358
+#: templates/user/edit-profile.html:372 templates/user/edit-profile.html:375
 msgid "Disable"
 msgstr "Απενεργοποίηση"
 
 #: templates/admin/judge/judge/change_form.html:33
 #: templates/admin/judge/judge/change_form.html:36
-#: templates/user/edit-profile.html:386
+#: templates/user/edit-profile.html:403
 msgid "Enable"
 msgstr "Ενεργοποίηση"
 
@@ -3726,55 +3740,55 @@ msgstr "Προβολή υποβολών"
 #: templates/admin/judge/problem/change_form.html:20
 #: templates/admin/judge/problem/change_form.html:23
 msgid "View problem votes"
-msgstr ""
+msgstr "Προβολή προβληματικών ψήφων."
 
 #: templates/admin/judge/profile/change_form.html:14
 #: templates/admin/judge/profile/change_form.html:17
 msgid "Edit user"
 msgstr "Επεξεργασία χρήστη"
 
-#: templates/base.html:206
+#: templates/base.html:216
 #, python-format
 msgid "Hello, %(username)s."
 msgstr "Γεια σας, %(username)s."
 
-#: templates/base.html:215
+#: templates/base.html:225
 msgid "Stop impersonating"
 msgstr "Σταματήστε την προσωποποίηση"
 
-#: templates/base.html:220
+#: templates/base.html:230
 msgid "Log out"
 msgstr "Αποσύνδεση"
 
-#: templates/base.html:229
+#: templates/base.html:239
 #: templates/registration/password_reset_complete.html:4
 msgid "Log in"
 msgstr "Σύνδεση"
 
-#: templates/base.html:230 templates/registration/registration_form.html:181
+#: templates/base.html:240 templates/registration/registration_form.html:177
 msgid "or"
 msgstr "ή"
 
-#: templates/base.html:231
+#: templates/base.html:241
 msgid "Sign up"
 msgstr "Εγγραφή"
 
-#: templates/base.html:243
+#: templates/base.html:253
 msgid "spectating"
 msgstr "παρακολουθεί"
 
-#: templates/base.html:256
+#: templates/base.html:266
 msgid "This site works best with JavaScript enabled."
 msgstr "Αυτός ο ιστότοπος λειτουργεί καλύτερα με ενεργοποιημένη JavaScript."
 
-#: templates/base.html:283
+#: templates/base.html:293
 msgid "proudly powered by **DMOJ**"
 msgstr "παρέχεται περήφανα από **DMOJ**"
 
 #: templates/blog/content.html:13 templates/comments/list.html:89
 #: templates/comments/list.html:105 templates/contest/contest-tabs.html:23
 #: templates/contest/tag-title.html:9 templates/flatpages/admin_link.html:3
-#: templates/license.html:10 templates/problem/data.html:423
+#: templates/license.html:10 templates/problem/data.html:424
 #: templates/problem/editorial.html:14
 msgid "Edit"
 msgstr "Επεξεργασία"
@@ -3808,7 +3822,7 @@ msgstr "δημοσιεύθηκε {time}"
 
 #: templates/blog/list.html:81
 msgid "Continue reading..."
-msgstr ""
+msgstr "Συνέχεια ανάγνωσης..."
 
 #: templates/blog/list.html:95 templates/problem/problem.html:331
 msgid "Clarifications"
@@ -3825,7 +3839,7 @@ msgstr "Διαγωνισμοί σε εξέλιξη"
 #: templates/blog/list.html:127
 #, python-format
 msgid "Ends in %(countdown)s."
-msgstr ""
+msgstr "Λήγει σε %(countdown)s."
 
 #: templates/blog/list.html:137 templates/contest/list.html:226
 msgid "Upcoming contests"
@@ -3834,7 +3848,7 @@ msgstr "Επερχόμενοι διαγωνισμοί"
 #: templates/blog/list.html:145 templates/contest/contest.html:41
 #, python-format
 msgid "Starting in %(countdown)s."
-msgstr ""
+msgstr "Ξεκινώντας σε %(countdown)s."
 
 #: templates/blog/list.html:154
 msgid "Comment stream"
@@ -3940,19 +3954,19 @@ msgstr "αρχικό"
 #: templates/comments/media-js.html:101
 #, python-brace-format
 msgid "Could not vote: {error}"
-msgstr ""
+msgstr "Αδυναμία ψήφου: {error}"
 
 #: templates/comments/media-js.html:137
 msgid "Are you sure you want to hide this comment?"
-msgstr ""
+msgstr "Είστε βέβαιοι ότι θέλετε να αποκρύψετε αυτό το σχόλιο;"
 
 #: templates/comments/media-js.html:145
 msgid "Could not hide comment."
-msgstr ""
+msgstr "Αδυναμία απόκρυψης σχολίου."
 
 #: templates/comments/media-js.html:180
 msgid "updated"
-msgstr ""
+msgstr "Ενημερώθηκε"
 
 #: templates/comments/media-js.html:182
 msgid "Failed to update comment body."
@@ -3961,7 +3975,7 @@ msgstr ""
 #: templates/comments/media-js.html:185
 #, python-brace-format
 msgid "Could not edit comment: {error}"
-msgstr ""
+msgstr "Δεν ήταν δυνατή η επεξεργασία του σχολίου: {error}"
 
 #: templates/comments/votes.html:5
 msgid "Voter"
@@ -3975,17 +3989,17 @@ msgstr "Βαθμολογία"
 msgid "No votes"
 msgstr "Δεν υπάρχουν ψήφοι"
 
-#: templates/common-content.html:32 templates/user/edit-profile.html:219
+#: templates/common-content.html:32 templates/user/edit-profile.html:214
 msgid "Click to copy"
-msgstr ""
+msgstr "Κάντε κλικ για αντιγραφή."
 
-#: templates/common-content.html:33 templates/user/edit-profile.html:220
+#: templates/common-content.html:33 templates/user/edit-profile.html:215
 msgid "Copy"
-msgstr ""
+msgstr "Αντιγραφή"
 
-#: templates/common-content.html:44 templates/user/edit-profile.html:231
+#: templates/common-content.html:44 templates/user/edit-profile.html:226
 msgid "Copied!"
-msgstr ""
+msgstr "Αντιγράφηκε!"
 
 #: templates/contest/access_code.html:26
 msgid "Invalid access code."
@@ -4064,7 +4078,7 @@ msgstr "Ημερολόγιο"
 msgid "Info"
 msgstr "Πληροφορίες"
 
-#: templates/contest/contest-tabs.html:6 templates/submission/list.html:334
+#: templates/contest/contest-tabs.html:6 templates/submission/list.html:336
 msgid "Statistics"
 msgstr "Στατιστικά"
 
@@ -4117,12 +4131,12 @@ msgstr "Συνδεθείτε για να συμμετάσχετε"
 #: templates/contest/contest.html:33
 #, python-format
 msgid "Spectating, contest ends in %(countdown)s."
-msgstr ""
+msgstr "Παρακολουθώντας, ο διαγωνισμός τελειώνει σε %(countdown)s."
 
 #: templates/contest/contest.html:35
 #, python-format
 msgid "Participating virtually, %(countdown)s remaining."
-msgstr ""
+msgstr "Συμμετέχοντας εικονικά, απομένουν %(countdown)s."
 
 #: templates/contest/contest.html:37
 msgid "Participating virtually."
@@ -4135,7 +4149,7 @@ msgstr "Ο διαγωνισμός τελείωσε."
 #: templates/contest/contest.html:47
 #, python-format
 msgid "Your time is up! Contest ends in %(countdown)s."
-msgstr ""
+msgstr "Ο χρόνος σου τελείωσε! Ο διαγωνισμός τελειώνει στο %(countdown)s."
 
 #: templates/contest/contest.html:49
 #, python-format
@@ -4279,7 +4293,7 @@ msgstr "Ποσοστό AC"
 
 #: templates/contest/contest.html:198 templates/contest/list.html:152
 #: templates/contest/list.html:194 templates/contest/list.html:271
-#: templates/problem/list.html:203 templates/problem/list.html:235
+#: templates/problem/list.html:194 templates/problem/list.html:226
 msgid "Users"
 msgstr "Χρήστες"
 
@@ -4287,7 +4301,7 @@ msgstr "Χρήστες"
 msgid "Editorials"
 msgstr "Εξηγήσεις"
 
-#: templates/contest/contest.html:226 templates/problem/list.html:229
+#: templates/contest/contest.html:226 templates/problem/list.html:220
 msgid "Editorial"
 msgstr "Εξήγηση"
 
@@ -4452,19 +4466,19 @@ msgstr "Αναίρεση Αποκλεισμού"
 msgid "Disqualify"
 msgstr "Αποκλεισμός"
 
-#: templates/contest/ranking.html:151
+#: templates/contest/ranking.html:46
 msgid "Are you sure you want to disqualify this participation?"
 msgstr "Είστε βέβαιοι ότι θέλετε να αποκλείσετε αυτή τη συμμετοχή;"
 
-#: templates/contest/ranking.html:156
+#: templates/contest/ranking.html:51
 msgid "Are you sure you want to un-disqualify this participation?"
 msgstr "Είστε βέβαιοι ότι θέλετε να αναιρέσεται τον αποκλεισμό αυτής της συμμετοχής;"
 
-#: templates/contest/ranking.html:228
+#: templates/contest/ranking.html:124
 msgid "View user participation"
 msgstr "Προβολή συμμετοχής χρήστη"
 
-#: templates/contest/ranking.html:232
+#: templates/contest/ranking.html:128
 msgid "Show organizations"
 msgstr "Εμφάνιση οργανισμών"
 
@@ -4651,7 +4665,7 @@ msgid "There are no requests to approve."
 msgstr "Δεν υπάρχουν αιτήσεις για έγκριση."
 
 #: templates/organization/requests/pending.html:17
-#: templates/problem/data.html:387
+#: templates/problem/data.html:388
 msgid "Delete?"
 msgstr "Διαγραφή;"
 
@@ -4687,59 +4701,59 @@ msgstr "Ενημέρωση προεπισκόπησης"
 msgid "Enter a new code for the cloned problem:"
 msgstr "Εισάγετε έναν νέο κωδικό για το κλωνοποιημένο πρόβλημα:"
 
-#: templates/problem/data.html:70
+#: templates/problem/data.html:71
 msgid "precision (decimal digits)"
 msgstr ""
 
-#: templates/problem/data.html:339
+#: templates/problem/data.html:340
 msgid "View YAML"
 msgstr "Προβολή YAML"
 
-#: templates/problem/data.html:355
+#: templates/problem/data.html:356
 msgid "Show columns:"
 msgstr "Εμφάνιση στηλών:"
 
-#: templates/problem/data.html:358 templates/problem/data.html:382
+#: templates/problem/data.html:359 templates/problem/data.html:383
 msgid "Output prefix"
 msgstr "Πρόθεμα εξόδου"
 
-#: templates/problem/data.html:362 templates/problem/data.html:383
+#: templates/problem/data.html:363 templates/problem/data.html:384
 msgid "Output limit"
 msgstr "Όριο εξόδου"
 
-#: templates/problem/data.html:366 templates/problem/data.html:384
+#: templates/problem/data.html:367 templates/problem/data.html:385
 msgid "Checker"
 msgstr "Ελεγκτής"
 
-#: templates/problem/data.html:370 templates/problem/data.html:385
+#: templates/problem/data.html:371 templates/problem/data.html:386
 msgid "Generator args"
 msgstr "Ορίσματα γεννήτριας"
 
-#: templates/problem/data.html:377
+#: templates/problem/data.html:378
 msgid "Type"
 msgstr "Τύπος"
 
-#: templates/problem/data.html:378
+#: templates/problem/data.html:379
 msgid "Input file"
 msgstr "Αρχείο εισόδου"
 
-#: templates/problem/data.html:379
+#: templates/problem/data.html:380
 msgid "Output file"
 msgstr "Αρχείο εξόδου"
 
-#: templates/problem/data.html:381
+#: templates/problem/data.html:382
 msgid "Pretest?"
 msgstr "Προδοκιμή;"
 
-#: templates/problem/data.html:433 templates/problem/submit.html:256
+#: templates/problem/data.html:434 templates/problem/submit.html:190
 msgid "Submit!"
 msgstr "Υποβολή!"
 
-#: templates/problem/data.html:434
+#: templates/problem/data.html:435
 msgid "Add new case"
 msgstr "Προσθήκη νέας περίπτωσης"
 
-#: templates/problem/data.html:436
+#: templates/problem/data.html:437
 msgid "Save"
 msgstr "Αποθήκευση"
 
@@ -4757,100 +4771,100 @@ msgid_plural "Authors:"
 msgstr[0] "Συγγραφέας:"
 msgstr[1] "Συγγραφείς:"
 
-#: templates/problem/list.html:58
+#: templates/problem/list.html:49
 msgid "Filter by type..."
 msgstr "Φιλτράρισμα ανά τύπο..."
 
-#: templates/problem/list.html:176
+#: templates/problem/list.html:167
 msgid "Hot problems"
 msgstr "Χοτ προβλήματα"
 
-#: templates/problem/list.html:198 templates/problem/list.html:216
+#: templates/problem/list.html:189 templates/problem/list.html:207
 #: templates/problem/search-form.html:35 templates/user/user-problems.html:59
 msgid "Category"
 msgstr "Κατηγορία"
 
-#: templates/problem/list.html:200 templates/problem/list.html:220
+#: templates/problem/list.html:191 templates/problem/list.html:211
 msgid "Types"
 msgstr "Τύποι"
 
-#: templates/problem/list.html:227
+#: templates/problem/list.html:218
 #, python-format
 msgid "AC %%"
 msgstr "AC %%"
 
-#: templates/problem/manage_submission.html:55
+#: templates/problem/manage_submission.html:56
 msgid "Leave empty to not filter by language"
 msgstr "Αφήστε κενό για να μην φιλτράρετε ανά γλώσσα"
 
-#: templates/problem/manage_submission.html:60
+#: templates/problem/manage_submission.html:62
 msgid "Leave empty to not filter by result"
 msgstr "Αφήστε κενό για να μην φιλτράρετε ανά αποτέλεσμα"
 
-#: templates/problem/manage_submission.html:79
+#: templates/problem/manage_submission.html:81
 msgid "Need valid values for both start and end IDs."
 msgstr "Χρειάζονται έγκυρες τιμές τόσο για αναγνωριστικά (ID) έναρξης όσο και τέλους."
 
-#: templates/problem/manage_submission.html:82
+#: templates/problem/manage_submission.html:84
 msgid "End ID must be after start ID."
 msgstr "Το ID λήξης πρέπει να βρίσκεται μετά το ID έναρξης."
 
-#: templates/problem/manage_submission.html:90
+#: templates/problem/manage_submission.html:92
 #, python-brace-format
 msgid "You are about to rejudge {count} submissions. Are you sure you want to do this?"
 msgstr "Πρόκειται να κρίνετε εκ νέου {count} υποβολές. Είστε σίγουροι ότι θέλετε να το κάνετε;"
 
-#: templates/problem/manage_submission.html:96
+#: templates/problem/manage_submission.html:98
 msgid "You are about to rejudge a few submissions. Are you sure you want to do this?"
 msgstr "Πρόκειται να κρίνετε εκ νέου μερικές υποβολές. Είστε σίγουροι ότι θέλετε να το κάνετε;"
 
-#: templates/problem/manage_submission.html:115
+#: templates/problem/manage_submission.html:117
 msgid "Rejudge Submissions"
 msgstr "Κρίση εκ νέου Υποβολών"
 
-#: templates/problem/manage_submission.html:120
+#: templates/problem/manage_submission.html:122
 msgid "Filter by ID:"
 msgstr "Φιλτράρισμα ανά ID:"
 
-#: templates/problem/manage_submission.html:123
+#: templates/problem/manage_submission.html:125
 msgid "Starting ID:"
 msgstr "ID Έναρξης:"
 
-#: templates/problem/manage_submission.html:127
+#: templates/problem/manage_submission.html:129
 msgid "Ending ID:"
 msgstr "ID Λήξης:"
 
-#: templates/problem/manage_submission.html:131
+#: templates/problem/manage_submission.html:133
 msgid "This range includes both endpoints."
 msgstr "Αυτό το εύρος περιλαμβάνει και τα δύο τελικά σημεία."
 
-#: templates/problem/manage_submission.html:134
+#: templates/problem/manage_submission.html:136
 msgid "Filter by language:"
 msgstr "Φιλτράρισμα ανά γλώσσα:"
 
-#: templates/problem/manage_submission.html:150
+#: templates/problem/manage_submission.html:152
 msgid "Rejudge selected submissions"
 msgstr "Κρίση εκ νέου επιλεγμένων υποβολών"
 
-#: templates/problem/manage_submission.html:157
+#: templates/problem/manage_submission.html:159
 msgid "Rescore Everything"
 msgstr "Αναβαθμολόγηση Όλων"
 
-#: templates/problem/manage_submission.html:158
+#: templates/problem/manage_submission.html:160
 #, python-format
 msgid "This will rescore %(count)s submission."
 msgid_plural "This will rescore %(count)s submissions."
 msgstr[0] "Αυτό θα αναβαθμολογήσει %(count)s υποβολή."
 msgstr[1] "Αυτό θα αναβαθμολογήσει %(count)s υποβολές."
 
-#: templates/problem/manage_submission.html:166
+#: templates/problem/manage_submission.html:168
 #, python-format
 msgid "Are you sure you want to rescore %(count)s submission?"
 msgid_plural "Are you sure you want to rescore %(count)s submissions?"
 msgstr[0] "Είστε βέβαιοι ότι θέλετε να αναβαθμολογήσετε %(count)s υποβολή;"
 msgstr[1] "Είστε βέβαιοι ότι θέλετε να αναβαθμολογήσετε %(count)s υποβολές;"
 
-#: templates/problem/manage_submission.html:171
+#: templates/problem/manage_submission.html:173
 msgid "Rescore all submissions"
 msgstr "Αναβαθμολόγηση όλων των υποβολών"
 
@@ -4927,11 +4941,11 @@ msgstr "Πόντοι:"
 msgid "(partial)"
 msgstr "(εν μέρει)"
 
-#: templates/problem/problem.html:198
+#: templates/problem/problem.html:198 templates/problem/raw.html:61
 msgid "Time limit:"
 msgstr "Χρονικό όριο:"
 
-#: templates/problem/problem.html:210
+#: templates/problem/problem.html:210 templates/problem/raw.html:70
 msgid "Memory limit:"
 msgstr "Όριο μνήμης:"
 
@@ -4967,14 +4981,6 @@ msgstr "Αίτηση διευκρίνισης"
 #: templates/problem/problem.html:322
 msgid "Report an issue"
 msgstr "Αναφορά προβλήματος"
-
-#: templates/problem/raw.html:61
-msgid "Time Limit:"
-msgstr "Χρονικό Όριο:"
-
-#: templates/problem/raw.html:70
-msgid "Memory Limit:"
-msgstr "Όριο Μνήμης:"
 
 #: templates/problem/search-form.html:2
 msgid "Problem search"
@@ -5013,8 +5019,8 @@ msgstr "Τύποι προβλήματος"
 msgid "Point range"
 msgstr "Εύρος πόντων"
 
-#: templates/problem/search-form.html:68 templates/submission/list.html:326
-#: templates/ticket/list.html:188
+#: templates/problem/search-form.html:68 templates/submission/list.html:328
+#: templates/ticket/list.html:189
 msgid "Go"
 msgstr "Μετάβαση"
 
@@ -5023,7 +5029,7 @@ msgid "Random"
 msgstr "Τυχαίο"
 
 #: templates/problem/submission-diff.html:62
-#: templates/status/language-list.html:34 templates/ticket/list.html:199
+#: templates/status/language-list.html:34 templates/ticket/list.html:200
 msgid "ID"
 msgstr "ID"
 
@@ -5035,31 +5041,31 @@ msgstr "Αποτέλεσμα"
 msgid "Date"
 msgstr "Ημερομηνία"
 
-#: templates/problem/submit.html:117
+#: templates/problem/submit.html:118
 msgid "Your source code must contain at most 65536 characters."
 msgstr "Ο πηγαίος κώδικας σας πρέπει να περιέχει το πολύ 65536 χαρακτήρες."
 
-#: templates/problem/submit.html:204
+#: templates/problem/submit.html:138
 msgid "Warning!"
 msgstr "Προσοχή!"
 
-#: templates/problem/submit.html:205
+#: templates/problem/submit.html:139
 #, python-format
 msgid "Your default language, %(language)s, is unavailable for this problem and has been deselected."
 msgstr "Η προεπιλεγμένη σας γλώσσα, %(language)s, δεν είναι διαθέσιμη για αυτό το πρόβλημα και έχει αποεπιλεγεί."
 
-#: templates/problem/submit.html:213
+#: templates/problem/submit.html:147
 #, python-format
 msgid "You have %(left)s submission left"
 msgid_plural "You have %(left)s submissions left"
 msgstr[0] "Σας έχει απομείνει %(left)s υποβολή"
 msgstr[1] "Σας έχουν απομείνει %(left)s υποβολές"
 
-#: templates/problem/submit.html:218
+#: templates/problem/submit.html:152
 msgid "You have 0 submissions left"
 msgstr "Σας έχουν απομείνει 0 υποβολές"
 
-#: templates/problem/submit.html:252
+#: templates/problem/submit.html:186
 msgid "No judge is available for this problem."
 msgstr "Κανένας κριτής δεν είναι διαθέσιμος για αυτό το πρόβλημα."
 
@@ -5267,7 +5273,7 @@ msgstr "Η %(site_name)s ομάδα"
 msgid "Password reset on %(site_name)s"
 msgstr "Επαναφορά κωδικού πρόσβασης στο %(site_name)s"
 
-#: templates/registration/profile_creation.html:44
+#: templates/registration/profile_creation.html:38
 #: templates/registration/username_select.html:7
 msgid "Continue >"
 msgstr "Συνέχεια >"
@@ -5280,36 +5286,36 @@ msgstr "Οι εγγραφές είναι κλειστές. Επικοινωνή�
 msgid "You have successfully been registered. An email has been sent to the email address you provided to confirm your registration."
 msgstr "Έχετε εγγραφεί με επιτυχία. Ένα μήνυμα ηλεκτρονικού ταχυδρομείου έχει σταλεί στη διεύθυνση που δώσατε για επιβεβαίωση της εγγραφής σας."
 
-#: templates/registration/registration_form.html:170
+#: templates/registration/registration_form.html:166
 msgid "(again, for confirmation)"
 msgstr "(ξανά, για επιβεβαίωση)"
 
-#: templates/registration/registration_form.html:177
+#: templates/registration/registration_form.html:173
 msgid "(select your closest major city)"
 msgstr "(επιλέξτε την κοντινότερη μεγάλη πόλη)"
 
-#: templates/registration/registration_form.html:182
+#: templates/registration/registration_form.html:178
 msgid "pick from map"
 msgstr "επιλογή από χάρτη"
 
-#: templates/registration/registration_form.html:187
+#: templates/registration/registration_form.html:183
 msgid "Default language"
 msgstr "Προεπιλεγμένη γλώσσα"
 
-#: templates/registration/registration_form.html:190
+#: templates/registration/registration_form.html:186
 msgid "Affiliated organizations"
 msgstr "Συνδεδεμένοι οργανισμοί"
 
-#: templates/registration/registration_form.html:199
-#: templates/user/edit-profile.html:322
+#: templates/registration/registration_form.html:195
+#: templates/user/edit-profile.html:321
 msgid "Notify me about upcoming contests"
 msgstr "Ειδοποιήστε με για επερχόμενους διαγωνισμούς"
 
-#: templates/registration/registration_form.html:213
+#: templates/registration/registration_form.html:209
 msgid "By registering, you agree to our [Terms & Conditions][0]."
 msgstr "Με την εγγραφή σας, συμφωνείτε με τους [Όροι & Προϋποθέσεις][0] μας."
 
-#: templates/registration/registration_form.html:216
+#: templates/registration/registration_form.html:212
 msgid "Register!"
 msgstr "Εγγραφή!"
 
@@ -5351,17 +5357,17 @@ msgid "Enable Two Factor Authentication"
 msgstr "Ενεργοποίηση Ταυτοποίησης Δύο Παραγόντων"
 
 #: templates/registration/totp_enable.html:98
-#: templates/user/edit-profile.html:374
+#: templates/user/edit-profile.html:391
 msgid "Below is a list of one-time use scratch codes."
 msgstr "Παρακάτω είναι μια λίστα μίας χρήσης κωδικών scratch."
 
 #: templates/registration/totp_enable.html:99
-#: templates/user/edit-profile.html:375
+#: templates/user/edit-profile.html:392
 msgid "These codes can only be used once and are for emergency use."
 msgstr "Οι κωδικοί αυτοί μπορούν να χρησιμοποιηθούν μόνο μία φορά και προορίζονται για επείγουσα χρήση."
 
 #: templates/registration/totp_enable.html:100
-#: templates/user/edit-profile.html:376
+#: templates/user/edit-profile.html:393
 msgid "You can use these codes to login to your account or disable two-factor authentication."
 msgstr "Μπορείτε να χρησιμοποιήσετε αυτούς τους κωδικούς για να συνδεθείτε στο λογαριασμό σας ή να απενεργοποιήσετε τον έλεγχο ταυτότητας δύο παραγόντων."
 
@@ -5370,7 +5376,7 @@ msgid "If you ever need more scratch codes, you can regenerate them on the edit 
 msgstr "Εάν χρειάζεστε ποτέ περισσότερους κώδικες scratch, μπορείτε να τους παράξετε εκ νέου στην καρτέλα επεξεργασίας προφίλ."
 
 #: templates/registration/totp_enable.html:102
-#: templates/user/edit-profile.html:378
+#: templates/user/edit-profile.html:395
 msgid "Please write these down and keep them in a secure location."
 msgstr "Παρακαλώ καταγράψτε και αποθηκεύστε τους σε ασφαλές σημείο."
 
@@ -5388,12 +5394,12 @@ msgid "If you lose your authentication device and are unable to use your scratch
 msgstr "Αν χάσετε τη συσκευή ελέγχου ταυτότητας και δεν μπορείτε να χρησιμοποιήσετε τους κωδικούς scratch, %(site_name)s διαχειριστές ΔΕΝ θα είναι σε θέση να ανακτήσουν το λογαριασμό σας. Παρακαλώ κρατήστε τους κωδικούς scratch σας ασφαλείς!"
 
 #: templates/registration/two_factor_auth.html:33
-#: templates/user/edit-profile.html:164
+#: templates/user/edit-profile.html:159
 msgid "WebAuthn is not supported by your browser."
 msgstr "Το πρόγραμμα περιήγησης σας δεν υποστηρίζει WebAuthn."
 
 #: templates/registration/two_factor_auth.html:54
-#: templates/user/edit-profile.html:188
+#: templates/user/edit-profile.html:183
 msgid "Failed to contact server."
 msgstr "Αποτυχία επικοινωνίας με το διακομιστή."
 
@@ -5462,8 +5468,8 @@ msgid "Judges"
 msgstr "Κριτές"
 
 #: templates/status/status-tabs.html:6
-msgid "Version Matrix"
-msgstr "Πίνακας Έκδοσης"
+msgid "Versions"
+msgstr "Εκδόσεις"
 
 #: templates/submission/info-base.html:8
 #, python-format
@@ -5491,23 +5497,23 @@ msgstr "Πληροφορίες σφάλματος"
 msgid "Are you sure you want to rejudge?"
 msgstr ""
 
-#: templates/submission/list.html:74
+#: templates/submission/list.html:75
 msgid "Filter by status..."
 msgstr "Φιλτράρισμα ανά κατάσταση..."
 
-#: templates/submission/list.html:80
+#: templates/submission/list.html:82
 msgid "Filter by language..."
 msgstr "Φιλτράρισμα ανά γλώσσα..."
 
-#: templates/submission/list.html:304
+#: templates/submission/list.html:306
 msgid "Filter submissions"
 msgstr "Φίλτρο υποβολών"
 
-#: templates/submission/list.html:340
+#: templates/submission/list.html:342
 msgid "Total:"
 msgstr "Σύνολο:"
 
-#: templates/submission/list.html:350
+#: templates/submission/list.html:352
 msgid "You were disconnected. Refresh to show latest updates."
 msgstr "Αποσυνδεθήκατε. Ανανεώστε για να εμφανιστούν οι τελευταίες ενημερώσεις."
 
@@ -5671,33 +5677,33 @@ msgstr "Ανοιγμένα εκ νέου: "
 msgid "Closed: "
 msgstr "Κλειστά: "
 
-#: templates/ticket/list.html:156
+#: templates/ticket/list.html:157
 msgid "Use desktop notification"
 msgstr "Χρήση ειδοποίησης επιφάνειας εργασίας"
 
-#: templates/ticket/list.html:162
+#: templates/ticket/list.html:163
 msgid "Hide closed tickets"
 msgstr "Απόκρυψη κλειστών αιτημάτων"
 
-#: templates/ticket/list.html:167
+#: templates/ticket/list.html:168
 msgid "Show my tickets only"
 msgstr "Εμφάνιση μόνο των αιτημάτων μου"
 
-#: templates/ticket/list.html:171
+#: templates/ticket/list.html:172
 msgid "Filing user"
 msgstr "Χρήστης αρχειοθέτης"
 
-#: templates/ticket/list.html:180 templates/ticket/ticket.html:196
+#: templates/ticket/list.html:181 templates/ticket/ticket.html:196
 msgid "Assignee"
 msgid_plural "Assignees"
 msgstr[0] "Υπεύθυνος"
 msgstr[1] "Υπεύθυνοι"
 
-#: templates/ticket/list.html:200
+#: templates/ticket/list.html:201
 msgid "Title"
 msgstr "Τίτλος"
 
-#: templates/ticket/list.html:202
+#: templates/ticket/list.html:203
 msgid "Assignees"
 msgstr "Υπεύθυνοι"
 
@@ -5748,130 +5754,134 @@ msgstr "Σημειώσεις υπεύθυνου"
 msgid "Nothing here."
 msgstr "Δεν υπάρχει κάτι εδώ."
 
-#: templates/user/base-users-table.html:3
+#: templates/user/base-users-table.html:4
 msgid "Rank"
 msgstr "Βαθμίδα"
 
-#: templates/user/base-users.html:14 templates/user/base-users.html:57
+#: templates/user/base-users.html:15 templates/user/base-users.html:59
 msgid "Search by handle..."
 msgstr "Αναζήτηση με ανγνωριστικό..."
 
-#: templates/user/edit-profile.html:107
+#: templates/user/edit-profile.html:102
 msgid "The administrators for this site require all the staff to have Two-factor Authentication enabled, so it may not be disabled at this time."
 msgstr ""
 
-#: templates/user/edit-profile.html:112
+#: templates/user/edit-profile.html:107
 msgid "Are you sure you want to generate or regenerate your API token?"
 msgstr "Είστε βέβαιοι ότι θέλετε να παράξετε ή να αναπαράξετε το API διακριτικό σας;"
 
-#: templates/user/edit-profile.html:113
+#: templates/user/edit-profile.html:108
 msgid "This will invalidate any previous API tokens."
 msgstr "Αυτό θα ακυρώσει τυχόν προηγούμενα διακριτικά API."
 
-#: templates/user/edit-profile.html:114
+#: templates/user/edit-profile.html:109
 msgid "It also allows access to your account without Two-factor Authentication."
 msgstr "Επιτρέπει επίσης πρόσβαση στο λογαριασμό σας χωρίς έλεγχο ταυτότητας δύο παραγόντων."
 
-#: templates/user/edit-profile.html:115
+#: templates/user/edit-profile.html:110
 msgid "You will not be able to view your API token after you leave this page!"
 msgstr "Δεν θα είστε σε θέση να δείτε το API διακριτικό σας αφού φύγετε από αυτή τη σελίδα!"
 
-#: templates/user/edit-profile.html:116 templates/user/edit-profile.html:210
+#: templates/user/edit-profile.html:111 templates/user/edit-profile.html:205
 msgid "Generating..."
 msgstr "Δημιουργία..."
 
-#: templates/user/edit-profile.html:130 templates/user/edit-profile.html:398
+#: templates/user/edit-profile.html:125 templates/user/edit-profile.html:355
 msgid "Remove"
 msgstr "Διαγραφή"
 
-#: templates/user/edit-profile.html:140
+#: templates/user/edit-profile.html:135
 msgid "Are you sure you want to remove your API token?"
 msgstr "Είστε βέβαιοι ότι θέλετε να διαγράψετε το API διακριτικό σας;"
 
-#: templates/user/edit-profile.html:147 templates/user/edit-profile.html:370
-#: templates/user/edit-profile.html:402
+#: templates/user/edit-profile.html:142 templates/user/edit-profile.html:359
+#: templates/user/edit-profile.html:387
 msgid "Generate"
 msgstr "Παραγωγή"
 
-#: templates/user/edit-profile.html:193
+#: templates/user/edit-profile.html:188
 msgid "Are you sure you want to delete this security key?"
 msgstr "Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτό το κλειδί ασφαλείας;"
 
-#: templates/user/edit-profile.html:207
+#: templates/user/edit-profile.html:202
 msgid "Are you sure you want to generate or regenerate a new set of scratch codes?"
 msgstr ""
 
-#: templates/user/edit-profile.html:208
+#: templates/user/edit-profile.html:203
 msgid "This will invalidate any previous scratch codes you have."
 msgstr ""
 
-#: templates/user/edit-profile.html:209 templates/user/edit-profile.html:379
+#: templates/user/edit-profile.html:204 templates/user/edit-profile.html:396
 msgid "You will not be able to view your scratch codes after you leave this page!"
 msgstr ""
 
-#: templates/user/edit-profile.html:278
+#: templates/user/edit-profile.html:273
 msgid "Self-description:"
 msgstr "Αυτο-περιγραφή:"
 
-#: templates/user/edit-profile.html:285
+#: templates/user/edit-profile.html:280
 msgid "Select your closest major city"
 msgstr "Επιλέξτε την κοντινότερη μεγάλη πόλη"
 
-#: templates/user/edit-profile.html:286
+#: templates/user/edit-profile.html:281
 msgid "Time zone:"
 msgstr "Ζώνη ώρας:"
 
-#: templates/user/edit-profile.html:290
+#: templates/user/edit-profile.html:285
 msgid "Language:"
 msgstr "Γλώσσα:"
 
-#: templates/user/edit-profile.html:294
+#: templates/user/edit-profile.html:289
+msgid "Site theme:"
+msgstr ""
+
+#: templates/user/edit-profile.html:293
 msgid "Editor theme:"
 msgstr "Μοτίβο συντάκτη:"
 
-#: templates/user/edit-profile.html:299
+#: templates/user/edit-profile.html:298
 msgid "Math engine:"
 msgstr "Μηχανή μαθηματικών:"
 
-#: templates/user/edit-profile.html:308
+#: templates/user/edit-profile.html:307
 msgid "Affiliated organizations:"
 msgstr "Συνδεδεμένοι οργανισμοί:"
 
-#: templates/user/edit-profile.html:334
+#: templates/user/edit-profile.html:333
 msgid "Change your avatar"
 msgstr "Αλλάξτε το avatar σας"
 
-#: templates/user/edit-profile.html:339
+#: templates/user/edit-profile.html:338
 msgid "Change your password"
 msgstr "Αλλάξτε τον κωδικό σας"
 
-#: templates/user/edit-profile.html:352
-msgid "Two-factor Authentication is enabled:"
-msgstr "Η ταυτοποίηση δύο παραγόντων είναι ενεργοποιημένη:"
+#: templates/user/edit-profile.html:350
+msgid "API token:"
+msgstr "Διακριτικό API:"
 
-#: templates/user/edit-profile.html:360
-msgid "Refresh"
-msgstr "Ανανέωση"
-
-#: templates/user/edit-profile.html:363
-msgid "Scratch codes:"
-msgstr "Κωδικοί scratch:"
-
-#: templates/user/edit-profile.html:367 templates/user/edit-profile.html:399
+#: templates/user/edit-profile.html:356 templates/user/edit-profile.html:384
 msgid "Hidden"
 msgstr "Κρυφό"
 
+#: templates/user/edit-profile.html:369
+msgid "Two-factor authentication is enabled:"
+msgstr "Η ταυτοποίηση δύο παραγόντων είναι ενεργοποιημένη:"
+
 #: templates/user/edit-profile.html:377
+msgid "Refresh"
+msgstr "Ανανέωση"
+
+#: templates/user/edit-profile.html:380
+msgid "Scratch codes:"
+msgstr "Κωδικοί scratch:"
+
+#: templates/user/edit-profile.html:394
 msgid "If you ever need more scratch codes, you can regenerate them here."
 msgstr ""
 
-#: templates/user/edit-profile.html:385
+#: templates/user/edit-profile.html:402
 msgid "Two-factor Authentication is disabled:"
 msgstr "Η ταυτοποίηση δύο παραγόντων είναι απενεργοποιημένη:"
-
-#: templates/user/edit-profile.html:393
-msgid "API token:"
-msgstr "Διακριτικό API:"
 
 #: templates/user/edit-profile.html:410
 msgid "Security keys:"
